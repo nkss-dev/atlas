@@ -57,7 +57,6 @@ kind: EPR
   - Communication networks
   - Forms of communication
   - Examples and case studies etc.
-
   - **Technology based communication:**
     - Net etiquettes
     - E-mails
@@ -70,7 +69,6 @@ kind: EPR
   - Introduction to soft skills
   - Meaning, nature, scope, and importance of soft skills in the present organizational setup.
   - Managing interpersonal relationships, leadership skills, team work, attitude, creativity, social graces and table manners, international and social etiquettes etc.
-
   - **Non-verbal communication:**
     - Body language and gestures
     - Significance and role of body language and gestures in communication

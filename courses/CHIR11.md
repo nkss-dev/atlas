@@ -84,7 +84,6 @@ kind: EPR
   - Water conservation
   - Rain water harvesting
   - Watershed management
-
 - **Environmental ethics, issues, and possible solutions:**
   - Environment Protection Act
   - Air (Prevention and Control of Pollution) Act
