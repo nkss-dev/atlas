@@ -32,7 +32,7 @@ specifics:
     credits: [2, 1, 2, 4]
 
 prereq: []
-type: EPR
+kind: EPR
 ---
 
 # Objectives
