@@ -3,46 +3,56 @@ code: CHIR11
 title: Energy and Environmental Science
 
 specifics:
-    - branch: CE
-      semester: 1
-      credits: [2, 0, 0, 2]
-    - branch: CS
-      semester: 1
-      credits: [2, 0, 2, 3]
-    - branch: EC
-      semester: 1
-      credits: [2, 0, 2, 3]
-    - branch: EE
-      semester: 1
-      credits: [2, 0, 0, 2]
-    - branch: IT
-      semester: 1
-      credits: [2, 0, 2, 3]
-    - branch: ME
-      semester: 1
-      credits: [2, 0, 2, 3]
-    - branch: PI
-      semester: 1
-      credits: [2, 0, 2, 3]
+  - branch: CE
+    semester: 1
+    credits: [2, 0, 0, 2]
+
+  - branch: CS
+    semester: 1
+    credits: [2, 0, 2, 3]
+
+  - branch: EC
+    semester: 1
+    credits: [2, 0, 2, 3]
+
+  - branch: EE
+    semester: 1
+    credits: [2, 0, 0, 2]
+
+  - branch: IT
+    semester: 1
+    credits: [2, 0, 2, 3]
+
+  - branch: ME
+    semester: 1
+    credits: [2, 0, 2, 3]
+
+  - branch: PI
+    semester: 1
+    credits: [2, 0, 2, 3]
 
 prereq: []
 kind: EPR
 ---
 
 # Objectives
+
 - To discuss the complexity of issues and challenges relating to energy and environmental science.
 - To explore the environmental impact of various energy sources and also the effects of different types of pollutants.
 - To introduce the principal renewable energy systems.
 - To discuss the human impact on the environment and human exposure to environmental contaminants.
 
 # Content
+
 ## Unit 1
+
 - **Multidisciplinary nature, Ecosystems and Bio-diversity:**
   - **Environment:** Definition, scope and importance; need for public awareness.
   - **Ecosystems:** Concept, structure, function and energy flow in an ecosystem; producers, consumers and de-composers.
   - **Bio-diversity:** Definition, value of bio-diversity, hot spots and threats to bio- diversity, conservation.
 
 ## Unit 2
+
 - **Natural Resources:**
   - **Renewable and non-renewable resources:** Natural resources and associated problems.
   - **Forest resources:** Use and over-exploitation, deforestation, case studies. Timber extraction, mining, dams and their effects on forest and tribal people.
@@ -55,6 +65,7 @@ kind: EPR
     - **Wind energy:** Energy from wind turbines, India’s wind energy potential, types of wind turbines, off shore wind energy, environmental benefits and impacts.
 
 ## Unit 3
+
 - **Environmental Pollution:**
   - **Air pollution:** Sources and effects of pollutants, primary and secondary pollutants, control measures.
     - **Acid rain:** Impacts on human communities and agriculture.
@@ -66,6 +77,7 @@ kind: EPR
   - **Nuclear hazards:** Causes, effects and control measures.
 
 ## Unit 4
+
 - **Social Issues and the Environment**
   - Unsustainable to sustainable development
   - Urban problems related to energy
@@ -78,6 +90,7 @@ kind: EPR
     - Water (Prevention and control of Pollution) Act
 
 # Reference Books
+
 - Environmental Studies: A. Basak, Pearson Education; 1st edition (2009)
 - Environmental Studies For Undergraduate Courses of all Branches of Higher Education by ErachBharucha for University Grants Commission
 - Text Book of Environmental Studies: D. Dave and S.S. Katewa, Cenage Learning
@@ -87,6 +100,7 @@ kind: EPR
 - Environmental Studies: Benny Joseph, McGraw-Hill Education,2nd edition
 
 # Outcomes
+
 - Understand the environmental pollutants and their health effects, and environmental remediation and management.
 - Understand the principal of renewable energy systems and explore the environmental impact of various energy sources.
 - Understand interrelationships among science, technology, and the environment.
