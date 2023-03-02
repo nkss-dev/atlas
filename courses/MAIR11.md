@@ -37,7 +37,9 @@ kind: EPR
 
 # Objectives
 
-This course is designed to give a comprehensive coverage at an introductory level to the subject of differential calculus, ordinary differential equations, and matrices.
+- To give a comprehensive coverage to the subject of differential calculus.
+- To give a comprehensive coverage to the subject of ordinary differential equations.
+- To give a comprehensive coverage to the subject of matrices.
 
 # Content
 
