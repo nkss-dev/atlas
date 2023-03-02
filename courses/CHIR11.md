@@ -47,7 +47,6 @@ kind: EPR
 ## Unit 1
 
 - **Multidisciplinary nature, Ecosystems and Bio-diversity:**
-
   - **Environment:** Definition, scope and importance; need for public awareness.
   - **Ecosystems:** Concept, structure, function and energy flow in an ecosystem; producers, consumers and de-composers.
   - **Bio-diversity:** Definition, value of bio-diversity, hot spots and threats to bio- diversity, conservation.
@@ -55,7 +54,6 @@ kind: EPR
 ## Unit 2
 
 - **Natural Resources:**
-
   - **Renewable and non-renewable resources:** Natural resources and associated problems.
   - **Forest resources:** Use and over-exploitation, deforestation, case studies. Timber extraction, mining, dams and their effects on forest and tribal people.
   - **Water resources:** Use and over-utilization of surface and ground water, floods, drought, conflicts over water.
@@ -69,7 +67,6 @@ kind: EPR
 ## Unit 3
 
 - **Environmental Pollution:**
-
   - **Air pollution:** Sources and effects of pollutants, primary and secondary pollutants, control measures.
     - **Acid rain:** Impacts on human communities and agriculture.
     - **Green-house effect:** Definition, causes and consequences.
@@ -82,7 +79,6 @@ kind: EPR
 ## Unit 4
 
 - **Social Issues and the Environment:**
-
   - Unsustainable to sustainable development
   - Urban problems related to energy
   - Water conservation

@@ -47,7 +47,6 @@ kind: EPR
 ## Unit 1
 
 - **Communication Skills:**
-
   - Introduction to communication
   - Types of communication
   - Use of language in communication
@@ -68,7 +67,6 @@ kind: EPR
 ## Unit 2
 
 - **Soft Skills:**
-
   - Introduction to soft skills
   - Meaning, nature, scope, and importance of soft skills in the present organizational setup.
   - Managing interpersonal relationships, leadership skills, team work, attitude, creativity, social graces and table manners, international and social etiquettes etc.
@@ -81,14 +79,12 @@ kind: EPR
 ## Unit 3
 
 - **Written Communication:**
-
   - Applications for jobs, CV and resume writing
   - Technical report writing, précis writing, paragraph writing, essays etc. with emphasis on different styles and structures to be used.
 
 ## Unit 4
 
 - **Grammar and Punctuation:**
-
   - Parts of speech, tenses, subject verb, active passive, interjections, capitalization etc.
   - Use of comma, period, exclamation marks, ellipsis, question mark, colon, semicolon, quotation marks, apostrophe etc.
   - Common errors and acceptable professional language.
