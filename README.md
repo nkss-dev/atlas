@@ -1,13 +1,12 @@
-# NKSS-academic
-A store for hand-crafted notes and other material!
+# Atlas
+A store for hand-crafted courses and potentially other material in the future!
 
-## But this respository is... empty?
-I don't wish to push anything here until I have settled on the directory layout and have enough content to work on. This will take a while, since we, NKSSS, have a lot on our plate at the moment!
+## What do you currently store?
+As of now, we only store the data for every courses that the college has to offer. We're in the process of adding more and more courses as we go. If you would like to help out, please refer our [contribution guidelines](https://github.com/NIT-KKR-Student-Support-System/atlas/blob/main/CONTRIBUTING.md) :)
 
 ## Why GitHub?
-As a scope of this repository, I wish to convert into its own API with some handy endpoints! This will not only fit into our micro-service architecture beautifully, but it will also aid as a convenient source of information with little to no 3rd party dependencies.
+Course data has been something that we failed to automate. So, we decided to get help from willing folks who are thrilled to help for the greater good. There are 2 reasons why we chose GitHub:
 
-Another benefit of this platform would be a single spot for all contributions to our project.
+- Some of the course data has to be stored in markdown format (the file you're reading right now is a Markdown!). Since we are getting help from others, there needs to be screening of the uploads. This is made easier with GitHub's native markdown renderer.
 
-## When will this repository hold content?
-By the end of this year (2022), this repository should have academic material for a few CS courses.
+- If we store the courses on GitHub, virtually anyone can hop in and help with this mission without worrying about how the internal code works. As an added bonus, your contributions will engraved on this repository!
