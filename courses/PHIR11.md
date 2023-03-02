@@ -44,62 +44,62 @@ kind: EPR
 
 ## Unit 1
 
-- **Quantum Mechanics:**
-  - Basics of quantum mechanics
-  - De-Broglie’s hypothesis
-  - Uncertainty principle
-  - Probability and Wave function
-  - Postulates of quantum mechanics
-  - Time-dependent and Time-independent Schrodinger wave equation
-  - Particle in a box
-- **Electromagnetic theory:**
-  - Maxwell’s equations in vacuum and medium
-  - Electromagnetic Waves
-  - Propagation Energy and Poynting Vector.
+1. **Quantum Mechanics:**
+   - Basics of quantum mechanics
+   - De-Broglie’s hypothesis
+   - Uncertainty principle
+   - Probability and Wave function
+   - Postulates of quantum mechanics
+   - Time-dependent and Time-independent Schrodinger wave equation
+   - Particle in a box
+2. **Electromagnetic theory:**
+   - Maxwell’s equations in vacuum and medium
+   - Electromagnetic Waves
+   - Propagation Energy and Poynting Vector.
 
 ## Unit 2
 
-- **Solid State Physics:**
-  - Space Lattice
-  - unit cell and translation vectors; Miller indices
-  - Simple and close-packed crystal structures with examples
-  - Origin of energy bands
-  - Kronig Penney Model (qualitative)
-  - E-K diagram
-  - Brillouin Zones
-  - Concept of effective mass and holes
-  - Classification into metals
-  - Semiconductors and insulators
-  - Liquid crystals
-  - Hall effect
+1. **Solid State Physics:**
+   - Space Lattice
+   - Unit cell and translation vectors; Miller indices
+   - Simple and close-packed crystal structures with examples
+   - Origin of energy bands
+   - Kronig Penney Model (qualitative)
+   - E-K diagram
+   - Brillouin Zones
+   - Concept of effective mass and holes
+   - Classification into metals
+   - Semiconductors and insulators
+   - Liquid crystals
+   - Hall effect
 
 ## Unit 3
 
-- **Special Theory of Relativity:**
-  - The Michelson-Morley experiment
-  - Relativistic transformations
-  - Length contraction
-  - Time dilation
-  - Variation of mass with velocity
-  - Mass-energy equivalence
-- **Nuclear Technology:**
-  - Interaction of radiation with matter, nuclear reactors, moderators, reactor criticality, and neutron cross-section
+1. **Special Theory of Relativity:**
+   - The Michelson-Morley experiment
+   - Relativistic transformations
+   - Length contraction
+   - Time dilation
+   - Variation of mass with velocity
+   - Mass-energy equivalence
+2. **Nuclear Technology:**
+   - Interaction of radiation with matter, nuclear reactors, moderators, reactor criticality, and neutron cross-section
 
 ## Unit 4
 
-- **Engineering Optics:**
-  - Basics of Interference
-  - Diffraction and Polarization
-  - Lasers and characteristics
-  - Einstein’s coefficients
-  - He-Ne laser
-  - Semiconductor lasers
-  - Applications of Lasers
-  - Optical fibres; Numerical aperture
-  - Classification of optical fibres
-  - Fibre Losses
-  - Fibre manufacturing
-  - Applications of optical fibre in industry and communication
+1. **Engineering Optics:**
+   - Basics of Interference
+   - Diffraction and Polarization
+   - Lasers and characteristics
+   - Einstein’s coefficients
+   - He-Ne laser
+   - Semiconductor lasers
+   - Applications of Lasers
+   - Optical fibres; Numerical aperture
+   - Classification of optical fibres
+   - Fibre Losses
+   - Fibre manufacturing
+   - Applications of optical fibre in industry and communication
 
 # Reference Books
 

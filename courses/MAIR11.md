@@ -45,57 +45,57 @@ kind: EPR
 
 ## Unit 1
 
-- **Matrices:**
-  - The eigenvalue problem
-  - Eigenvalues and eigenvectors
-  - Properties of eigenvalues and eigenvectors
-  - Cayley-Hamilton theorem and its applications
-  - Symmetric matrices
-  - Similarity of matrices
-  - Diagonalisation of a real symmetric matrix-quadratic form
+1. **Matrices:**
+   - The eigenvalue problem
+   - Eigenvalues and eigenvectors
+   - Properties of eigenvalues and eigenvectors
+   - Cayley-Hamilton theorem and its applications
+   - Symmetric matrices
+   - Similarity of matrices
+   - Diagonalisation of a real symmetric matrix-quadratic form
 
 ## Unit 2
 
-- **Multivariable Calculus:**
-  - Functions of two variables
-  - Limits and continuity
-  - Partial derivatives
-  - Total differential
-  - Taylor's expansion for two variables
-  - Maxima
-  - Contrained maxima and minima
-  - Lagrange's multiplier method
-  - Jacobians
+1. **Multivariable Calculus:**
+   - Functions of two variables
+   - Limits and continuity
+   - Partial derivatives
+   - Total differential
+   - Taylor's expansion for two variables
+   - Maxima
+   - Contrained maxima and minima
+   - Lagrange's multiplier method
+   - Jacobians
 
 ## Unit 3
 
-- **Ordinary Differential Equations:**
-  - Linear higher order ordinary differential equation with constant coefficients
-  - Solutions of homogenous equations
-  - Method of undetermined coeffiicients
-  - Method of variation of parameteres
-  - Equations reducible to linear equations with constant coeffiicients
+1. **Ordinary Differential Equations:**
+   - Linear higher order ordinary differential equation with constant coefficients
+   - Solutions of homogenous equations
+   - Method of undetermined coeffiicients
+   - Method of variation of parameteres
+   - Equations reducible to linear equations with constant coeffiicients
 
 ## Unit 4
 
-- **Applications of Differential Equations:**
-  - **First order equations:** Newton's law of cooling - radioactive decay, L-R and C-R circuits.
-  - **Second order equations:**
-    - **Mechanical Vibrations:** Free un-damped and damped vibrations, Forced oscillations - Resonance phenomenon.
-    - **Electrical Vibration:** Series LCR circuit, Analogy with mass-spring system, LCR circuit with voltage source, complex impedance, and Resonance phenomena.
+1. **Applications of Differential Equations:**
+   - **First order equations:** Newton's law of cooling - radioactive decay, L-R and C-R circuits.
+   - **Second order equations:**
+     - **Mechanical Vibrations:** Free un-damped and damped vibrations, Forced oscillations - Resonance phenomenon.
+     - **Electrical Vibration:** Series LCR circuit, Analogy with mass-spring system, LCR circuit with voltage source, complex impedance, and Resonance phenomena.
 
 ## Unit 5
 
-- **Laplace Transforms:**
-  - Definition
-  - Laplace transforms of functions
-  - Properties of Laplace transforms
-  - Initial and final values theorems
-  - Inverse transforms
-  - Transforms of periodic functions
-  - Convolution theorem
-  - Step functions, impulse functions
-  - The solution to differential equations
+1. **Laplace Transforms:**
+   - Definition
+   - Laplace transforms of functions
+   - Properties of Laplace transforms
+   - Initial and final values theorems
+   - Inverse transforms
+   - Transforms of periodic functions
+   - Convolution theorem
+   - Step functions, impulse functions
+   - The solution to differential equations
 
 # Reference Books
 

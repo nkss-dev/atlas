@@ -46,48 +46,48 @@ kind: EPR
 
 ## Unit 1
 
-- **Multidisciplinary nature, Ecosystems and Bio-diversity:**
-  - **Environment:** Definition, scope and importance; need for public awareness.
-  - **Ecosystems:** Concept, structure, function and energy flow in an ecosystem; producers, consumers and de-composers.
-  - **Bio-diversity:** Definition, value of bio-diversity, hot spots and threats to bio- diversity, conservation.
+1. **Multidisciplinary nature, Ecosystems and Bio-diversity:**
+   - **Environment:** Definition, scope and importance; need for public awareness.
+   - **Ecosystems:** Concept, structure, function and energy flow in an ecosystem; producers, consumers and de-composers.
+   - **Bio-diversity:** Definition, value of bio-diversity, hot spots and threats to bio- diversity, conservation.
 
 ## Unit 2
 
-- **Natural Resources:**
-  - **Renewable and non-renewable resources:** Natural resources and associated problems.
-  - **Forest resources:** Use and over-exploitation, deforestation, case studies. Timber extraction, mining, dams and their effects on forest and tribal people.
-  - **Water resources:** Use and over-utilization of surface and ground water, floods, drought, conflicts over water.
-  - **Mineral resources:** Use and exploitation, environmental effects of extracting and using mineral resources, case studies.
-  - **Food resources:** World food problems, changes caused by agriculture and overgrazing, effects of modern agriculture, fertilizer-pesticide problems, water logging, salinity, case studies.
-  - **Energy resources:** Present energy resources in India and its sustainability, energy demand scenario in India, growing energy needs, renewable and non-renewable energy sources, use of alternate energy sources;
-    - **Power plants:** Different types of conventional power plants, advantages & disadvantages of conventional power plants, conventional vs non-conventional power generation.
-    - **Solar energy:** Basics of solar energy, solar thermal energy, photovoltaic (PV) solar cells, advantages & disadvantages, environmental impacts and safety.
-    - **Wind energy:** Energy from wind turbines, India’s wind energy potential, types of wind turbines, off shore wind energy, environmental benefits and impacts.
+1. **Natural Resources:**
+   - **Renewable and non-renewable resources:** Natural resources and associated problems.
+   - **Forest resources:** Use and over-exploitation, deforestation, case studies. Timber extraction, mining, dams and their effects on forest and tribal people.
+   - **Water resources:** Use and over-utilization of surface and ground water, floods, drought, conflicts over water.
+   - **Mineral resources:** Use and exploitation, environmental effects of extracting and using mineral resources, case studies.
+   - **Food resources:** World food problems, changes caused by agriculture and overgrazing, effects of modern agriculture, fertilizer-pesticide problems, water logging, salinity, case studies.
+   - **Energy resources:** Present energy resources in India and its sustainability, energy demand scenario in India, growing energy needs, renewable and non-renewable energy sources, use of alternate energy sources;
+     - **Power plants:** Different types of conventional power plants, advantages & disadvantages of conventional power plants, conventional vs non-conventional power generation.
+     - **Solar energy:** Basics of solar energy, solar thermal energy, photovoltaic (PV) solar cells, advantages & disadvantages, environmental impacts and safety.
+     - **Wind energy:** Energy from wind turbines, India’s wind energy potential, types of wind turbines, off shore wind energy, environmental benefits and impacts.
 
 ## Unit 3
 
-- **Environmental Pollution:**
-  - **Air pollution:** Sources and effects of pollutants, primary and secondary pollutants, control measures.
-    - **Acid rain:** Impacts on human communities and agriculture.
-    - **Green-house effect:** Definition, causes and consequences.
-    - **Depletion of ozone layer:** CFC, destruction of ozone layer by CFC, consequences, the effect of ozone modification, Photochemical smog, Bhopal gas tragedy.
-  - **Water pollution:** Water characteristics, water quality (WHO standard), natural water pollutants their origin and effects: oxygen demanding wastes, pathogens, nutrients, salts, heavy metals, pesticides, volatile organic compounds. River/ lake/ ground water pollution: DO, BOD, COD, TOC, oil & grease, pH and eutrophication.
-  - **Thermal pollution:** Cause, effects and control measures.
-  - **Solid waste management:** Causes, effects and control measures of urban and industrial wastes.
-  - **Nuclear hazards:** Causes, effects and control measures.
+1. **Environmental Pollution:**
+   - **Air pollution:** Sources and effects of pollutants, primary and secondary pollutants, control measures.
+     - **Acid rain:** Impacts on human communities and agriculture.
+     - **Green-house effect:** Definition, causes and consequences.
+     - **Depletion of ozone layer:** CFC, destruction of ozone layer by CFC, consequences, the effect of ozone modification, Photochemical smog, Bhopal gas tragedy.
+   - **Water pollution:** Water characteristics, water quality (WHO standard), natural water pollutants their origin and effects: oxygen demanding wastes, pathogens, nutrients, salts, heavy metals, pesticides, volatile organic compounds. River/ lake/ ground water pollution: DO, BOD, COD, TOC, oil & grease, pH and eutrophication.
+   - **Thermal pollution:** Cause, effects and control measures.
+   - **Solid waste management:** Causes, effects and control measures of urban and industrial wastes.
+   - **Nuclear hazards:** Causes, effects and control measures.
 
 ## Unit 4
 
-- **Social Issues and the Environment:**
-  - Unsustainable to sustainable development
-  - Urban problems related to energy
-  - Water conservation
-  - Rain water harvesting
-  - Watershed management
-- **Environmental ethics, issues, and possible solutions:**
-  - Environment Protection Act
-  - Air (Prevention and Control of Pollution) Act
-  - Water (Prevention and control of Pollution) Act
+1. **Social Issues and the Environment:**
+   - Unsustainable to sustainable development
+   - Urban problems related to energy
+   - Water conservation
+   - Rain water harvesting
+   - Watershed management
+   - **Environmental ethics, issues, and possible solutions:**
+     - Environment Protection Act
+     - Air (Prevention and Control of Pollution) Act
+     - Water (Prevention and control of Pollution) Act
 
 # Reference Books
 
