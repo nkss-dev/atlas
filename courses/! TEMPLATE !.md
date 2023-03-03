@@ -1,6 +1,7 @@
 ---
 code: <course-code>
 title: <course-title>
+needs_screening: true
 
 specifics:
   - branch: CE
