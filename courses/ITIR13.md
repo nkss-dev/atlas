@@ -4,7 +4,7 @@ title: Introduction to Discipline Engineering
 similar: [CSIR13]
 
 specifics:
-  - branch: CS
+  - branch: IT
     semester: 1
     credits: [2, 0, 0, 2]
 
