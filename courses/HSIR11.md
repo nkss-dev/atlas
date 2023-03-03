@@ -1,10 +1,11 @@
 ---
 code: HSIR11
 title: Communication Skills in English
+needs_screening: true
 
 specifics:
   - branch: CE
-    semester: 1
+    semester: 2
     credits: [2, 0, 2, 3]
 
   - branch: CS
@@ -16,7 +17,7 @@ specifics:
     credits: [2, 0, 2, 3]
 
   - branch: EE
-    semester: 1
+    semester: 2
     credits: [2, 0, 2, 3]
 
   - branch: IT
