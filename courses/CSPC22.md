@@ -9,7 +9,7 @@ specifics:
     semester: 4
     credits: [3, 0, 2, 4]
 
-prereq: []
+prereq: [CSPC10, CSPC29]
 kind: PC2
 ---
 

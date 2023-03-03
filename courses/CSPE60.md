@@ -9,7 +9,7 @@ specifics:
     semester: 4
     credits: [3, 1, 0, 4]
 
-prereq: []
+prereq: [MAIR13]
 kind: PE2
 ---
 
