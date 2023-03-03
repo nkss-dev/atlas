@@ -1,6 +1,9 @@
 ---
 code: <course-code>
 title: <course-title>
+
+# Delete this line if no courses are similar to this one
+similar: [<course-code-1>, <course-code-2>]
 needs_screening: true
 
 specifics:
