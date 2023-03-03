@@ -1,8 +1,8 @@
-# Contributing to courses
+# Welcome to NKSSS Atlas' contributing guide
 
 Hey! Thank you so much for willing to contribute to one of the goals NKSSS attempts to achieve. Please refer below on how to contribute.
 
-## Steps to contribute
+## Steps to contribute to courses
 
 - Copy the contents of the [template file](/courses/!%20TEMPLATE%20!.md),
 - Click "Add file" > "Create new file" on the repository's page.
@@ -11,5 +11,5 @@ Hey! Thank you so much for willing to contribute to one of the goals NKSSS attem
 - Some notes about the structure of the file:
   - Remove all unnecessary entries inside `specifics` if the given course does not exist for those branches.
   - Do not create new empty lines other than the ones already present in the template.
-  - If a given unit does not have any major topic, do not use the numbered lists. Refer [ECPC71.md](./ECPC71.md) and the [ECE syllabus PDF](https://drive.google.com/file/d/1IUDACGOHCO3h-vhx-G8ofwrD3LUfqTP-) to understand what I'm trying to say.
+  - If a given unit does not have any major topic, do not use the numbered lists. Refer [ECPC71.md](/courses/ECPC71.md) and the [ECE syllabus PDF](https://drive.google.com/file/d/1IUDACGOHCO3h-vhx-G8ofwrD3LUfqTP-) to understand what I'm trying to say.
 - Commit this file. It will send a PR which I will review.

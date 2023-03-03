@@ -4,7 +4,7 @@ A map of all the hand-crafted courses and potentially other material in the futu
 
 ## What do you currently store?
 
-As of now, we only store the data for every courses that the college has to offer. We're in the process of adding more and more courses as we go. If you would like to help out, please refer our [contribution guidelines](/courses/CONTRIBUTING.md) :)
+As of now, we only store the data for every courses that the college has to offer. We're in the process of adding more and more courses as we go. If you would like to help out, please refer our [contribution guidelines](/CONTRIBUTING.md) :)
 
 ## Why GitHub?
 
