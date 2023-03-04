@@ -1,7 +1,7 @@
 ---
-code: CSPC31
-title: Advanced Data Structures and Algorithms
-similar: [ITPC45]
+code: CSPC33
+title: Soft Computing
+similar: [ITPE24]
 needs_screening: true
 
 specifics:
@@ -9,52 +9,54 @@ specifics:
     semester: 5
     credits: [3, 0, 2, 4]
 
-prereq: [CSPC11]
-kind: PC1
+prereq:
+kind: PC
 ---
 
 # Objectives
 
-- To develop the understanding of advanced data structures.
-- To develop the understanding of algorithmic design paradigms.
+- Motivation and historical background of Soft Computing.
+- Application of Fuzzy logic.
+- Biologically inspired algorithm such as neural networks, genetic algorithms, ant colony optimization, and bee colony optimization.
+- Hybrid systems of neural network, genetic algorithms and fuzzy systems.
 
 # Content
 
 ## Unit 1
 
 1. **Advanced Data Structures**
-    - Threaded binary trees
-    - Binomial heaps
-    - Fibonacci heaps
-    - Data structures for disjoint sets
-    - Balanced trees:
-        - AVL trees
-        - Red-black trees
+   - Threaded binary trees
+   - Binomial heaps
+   - Fibonacci heaps
+   - Data structures for disjoint sets
+   - Balanced trees:
+       - AVL trees
+       - Red-black trees
 
 ## Unit 2
 
 1. **String Matching**
-    - String-matching algorithm
-    - Rabin-Karp algorithm
-    - String matching with automata
-    - Knuth-Morris-Pratt algorithm
+   - String-matching algorithm
+   - Rabin-Karp algorithm
+   - String matching with automata
+   - Knuth-Morris-Pratt algorithm
 
 ## Unit 3
 
 1. **NP – Hard & NP – Complete problems**
-    - Concepts of NP-hard & NP-complete problems
-    - Clique Decision problem
-    - Node Cover decision problem
-    - Travelling Salesperson decision problem
+   - Concepts of NP-hard & NP-complete problems
+   - Clique Decision problem
+   - Node Cover decision problem
+   - Travelling Salesperson decision problem
 
 ## Unit 4
 
 1. **Advanced Algorithms**
-    - Approximation algorithms are algorithms that find solutions that are guaranteed to be close to the optimal solution, but not necessarily optimal.
-    - Absolute approximation refers to algorithms that find solutions whose quality is within a fixed constant factor of the optimal solution.
-    - Epsilon (ε)-approximation refers to algorithms that find solutions whose quality is within a factor of (1 + ε) of the optimal solution, where ε is a small positive constant.
-    - Polynomial time approximations refer to algorithms that run in polynomial time and find solutions whose quality is within a fixed constant factor or an ε-factor of the optimal solution.
-    - Randomized algorithms are algorithms that make use of randomization to find solutions that are close to the optimal solution. These algorithms may have different outputs each time they are run, but their expected output is close to the optimal solution.
+   - Approximation algorithms are algorithms that find solutions that are guaranteed to be close to the optimal solution, but not necessarily optimal.
+   - Absolute approximation refers to algorithms that find solutions whose quality is within a fixed constant factor of the optimal solution.
+   - Epsilon (ε)-approximation refers to algorithms that find solutions whose quality is within a factor of (1 + ε) of the optimal solution, where ε is a small positive constant.
+   - Polynomial time approximations refer to algorithms that run in polynomial time and find solutions whose quality is within a fixed constant factor or an ε-factor of the optimal solution.
+   - Randomized algorithms are algorithms that make use of randomization to find solutions that are close to the optimal solution. These algorithms may have different outputs each time they are run, but their expected output is close to the optimal solution.
 
 # Reference Books
 
