@@ -4,8 +4,8 @@ title: Soft Computing
 similar: [ITPE24]
 
 specifics:
-  - branch: 
-    semester: 
+  - branch: CS
+    semester: 5
     credits: [3, 0, 2, 4]
 
 prereq: []
