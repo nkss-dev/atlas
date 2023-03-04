@@ -5,8 +5,8 @@ similar: [ITPC25]
 
 specifics:
   - branch: CS
-    semester: 1
-    credits: [3,1,2,5]
+    semester: 3
+    credits: [3, 1, 2, 5]
 
 prereq: []
 kind: PC3
