@@ -1,13 +1,12 @@
 ---
 code: MAIR24
 title: Discrete Mathematics
-needs_screening: true
 
 specifics:
   - branch: CS
     semester: 3
     credits: [3, 1, 0, 4]
-wd
+
   - branch: IT
     semester: 3
     credits: [3, 1, 0, 4]
@@ -98,8 +97,8 @@ kind: EPR
 - Joe L Mott, Kandel and Baker, Discrete Mathematics for Computer Scientists
 - J. P. Tremblay and R Manohar Discrete Mathematical Structures with applications to Computer Science, Tata McGraw Hill (2001)
 - Kolman, Bubby Ross, Discret Mathematics Structures, PHI, 2001
-- C.L. Liu,; Elements of Discrete Mathematics. 1986.
-- Gary Haggard, J. Schlipf, S. Whitesides, Discrete Mathematics for Computer Science, Cengage     Learning; 2005.
+- C.L. Liu,; Elements of Discrete Mathematics. 1986
+- Gary Haggard, J. Schlipf, S. Whitesides, Discrete Mathematics for Computer Science, Cengage     Learning; 2005
 
 # Outcomes
 
