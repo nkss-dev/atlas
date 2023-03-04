@@ -15,8 +15,8 @@ kind: PC1
 
 # Objectives
 
--To develop the understanding of advanced data structures.
--To develop the understanding of algorithmic design paradigms.
+- To develop the understanding of advanced data structures.
+- To develop the understanding of algorithmic design paradigms.
 
 # Content
 
