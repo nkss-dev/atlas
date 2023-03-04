@@ -10,7 +10,7 @@ specifics:
     credits: [3, 0, 2, 4]
 
 prereq: [CSPC21]
-kind: PC
+kind: PC1
 ---
 
 # Objectives
