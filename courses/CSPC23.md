@@ -23,8 +23,15 @@ kind: PC2
 ## Unit 1
 
 - Overview of Java architecture and JVM
-- Classes: Declaring Members, Instance Members, Static Members
-- Objects: Class Instantiation, Reference Values, and References, Object Aliases
+- **Classes:**
+  - Declaring Members
+  - Instance Members
+  - Static Members
+- **Objects:**
+  - Class Instantiation
+  - Reference Values
+  - References
+  - Object Aliases
 - Primitive Data Types
 - Variable Declarations
 - Initial Values for Variables
@@ -33,43 +40,70 @@ kind: PC2
 - this reference
 - Method Overloading
 - Constructors
-- The Default Constructor and Constructors overloading
-- Arrays
-- Anonymous Arrays
-- Multidimensional Arrays
+- Default constructor and constructor overloading
+- **Arrays:**
+  - Anonymous Arrays
+  - Multidimensional Arrays
 - Variable Arity Methods
 - The main() Method
 - Program Arguments
 
 ## Unit 2
 
-- Defining Packages and Using Packages
-- Compiling Code into Packages and Running Code from Packages
+- **Packages:**
+  - Defining Packages
+  - Using Packages
+  - Compiling Code into Packages
+  - Running Code from Packages
 - Accessibility Modifiers and Overview of other Modifiers for Members
 - Operators and Expressions
 - Overview of Control Flow Statements
-- Exception Handling: The try Block, The catch Block, The finally Block, The throw Statement, The throws Clause, Checked and Unchecked Exceptions, Defining New Exceptions
+- **Exception Handling:**
+  - The `try-catch` block
+  - The `finally` block
+  - The `throw` statement
+  - The `throws` clause
+  - Checked and Unchecked Exceptions
+  - Defining new exceptions
 
 ## Unit 3
 
-- Single Implementation Inheritance, Overriding Methods, Hiding Members
+- Single Implementation Inheritance
+- Overriding Methods
+- Hiding Members
 - The Object Reference super and Chaining Constructors Using this() and super()
-- Interfaces: Defining Interfaces, Abstract Method Declarations, Implementing Interfaces, Extending Interfaces, Interface References, Constants in Interfaces, Polymorphism and Dynamic Method Lookup
-- Fundamental Classes: Overview of the java.lang Package, The Object Class, The Wrapper Classes, The String Class, The StringBuilder and the StringBuffer Classes
+- **Interfaces:**
+  - Defining Interfaces
+  - Abstract Method Declarations
+  - Implementing Interfaces
+  - Extending Interfaces
+  - Interface References
+  - Constants in Interfaces
+  - Polymorphism and Dynamic Method Lookup
+- **Fundamental Classes:**
+  - Overview of the java.lang Package
+  - The Object Class
+  - The Wrapper Classes
+  - The String Class
+  - The `StringBuilder` and the `StringBuffer` Classes
 
 ## Unit 4
 
-- Overview of Threads, the Main Thread, Thread Creation, Synchronization, Thread Transitions
+- Overview of Threads
+  - The Main Thread
+  - Thread Creation
+  - Synchronization
+  - Thread Transitions
 - Basics of Event Handling
 - Graphics Programming using AWT and Swing
 - Overview of the new Features of Java 7 & 8
 
 # Reference Books
 
-- Bruce Eckel, Thinking In Java, Pearson Education, 4th Ed., 2006.
-- Dietel & Deitel, Java How to Program, Pearson Education, 10th Ed., 2015.
-- Kathy Sierra & Bert Bates, Head First Java, O’REILLY, 2nd Ed., 2005.
-- Cay s. Horstmann & Gary Cornell, Core Java. Volume I, Fundamentals, Sun Microsystems Press, 8th Ed., 2008.
+- Bruce Eckel, Thinking In Java, Pearson Education, 4th Ed., 2006
+- Dietel & Deitel, Java How to Program, Pearson Education, 10th Ed., 2015
+- Kathy Sierra & Bert Bates, Head First Java, O’REILLY, 2nd Ed., 2005
+- Cay s. Horstmann & Gary Cornell, Core Java. Volume I, Fundamentals, Sun Microsystems Press, 8th Ed., 2008
 
 # Outcomes
 
