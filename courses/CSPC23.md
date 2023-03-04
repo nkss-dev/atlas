@@ -8,7 +8,7 @@ specifics:
     semester: 3
     credits: [3, 0, 2, 4]
 
-prereq: []
+prereq: [CSIR11]
 kind: PC2
 ---
 
