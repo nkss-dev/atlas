@@ -41,7 +41,7 @@ kind: PC1
 
 ## Unit 3
 
-1. **NP – Hard & NP – Complete problems++
+1. **NP – Hard & NP – Complete problems**
     - Concepts of NP-hard & NP-complete problems
     - Clique Decision problem
     - Node Cover decision problem
