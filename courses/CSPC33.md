@@ -6,7 +6,7 @@ similar: [ITPE24]
 specifics:
   - branch: 
     semester: 
-    credits: [4, 0, 0, 4]
+    credits: [3, 0, 2, 4]
 
 prereq: []
 kind: PC
