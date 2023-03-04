@@ -7,7 +7,7 @@ specifics:
   - branch: CS
     semester: 3
     credits: [3, 1, 0, 4]
-
+wd
   - branch: IT
     semester: 3
     credits: [3, 1, 0, 4]
@@ -18,14 +18,13 @@ kind: EPR
 
 # Objectives
 
-- Enable the students to write the algorithms for the real life problems and logical development 
-  and analysing the solutions.
+- Enable the students to write the algorithms for the real life problems and logical development and analysing the solutions.
 
 # Content
 
 ## Unit 1
 
-1. Discrete Probability
+1. **Discrete Probability:**
    - Introductory Examples
    - Basic definitions
    - Engineering applications of probability
@@ -42,7 +41,7 @@ kind: EPR
 
 ## Unit 2
 
-1. Discrete Random Variable & Distributions
+1. **Discrete Random Variable & Distributions:**
    - Random variables and their event spaces
    - Probability Mass function
    - Distribution function
@@ -54,7 +53,7 @@ kind: EPR
 
 ## Unit 3
 
-1. Relation and Logic
+1. **Relation and Logic:**
    - Binary Relation and their properties
    - Equivalence relations and partitions
    - Partial ordering relations
@@ -63,7 +62,7 @@ kind: EPR
 
 ## Unit 4
 
-1. Algebraic system 
+1. **Algebraic System:**
    - Definitions and elementary properties of algebraic structures
    - Semigroups, monoids and submonoids
    - Groups and subgroups
@@ -78,7 +77,7 @@ kind: EPR
 
 ## Unit 5
 
-1. Graphs and Trees
+1. **Graphs and Trees:**
    - Introduction
    - Basic Terminology
    - Multigraphs and Weighted Graphs
@@ -92,19 +91,16 @@ kind: EPR
    - Path Lengths in Rooted Trees
    - Binary Search Trees
    - Spanning Trees and Cut-sets
-   - Minimum spanning Trees.
-
-
+   - Minimum spanning Trees
 
 # Reference Books
 
-- Joe L Mott, Kandel and Baker, Discrete Mathematics for Computer Scientists,
-- J. P. Tremblay and R Manohar Discrete Mathematical Structures with applications to
-  Computer Science, Tata McGraw Hill (2001).
+- Joe L Mott, Kandel and Baker, Discrete Mathematics for Computer Scientists
+- J. P. Tremblay and R Manohar Discrete Mathematical Structures with applications to Computer Science, Tata McGraw Hill (2001)
 - Kolman, Bubby Ross, Discret Mathematics Structures, PHI, 2001
 - C.L. Liu,; Elements of Discrete Mathematics. 1986.
 - Gary Haggard, J. Schlipf, S. Whitesides, Discrete Mathematics for Computer Science, Cengage     Learning; 2005.
 
 # Outcomes
 
-- At the end of this course, the students are expected to better understand algebraic concepts     and logiv required for programming and developing algorithms & software packages
+- At the end of this course, the students are expected to better understand algebraic concepts and logic required for programming and developing algorithms & software packages.
