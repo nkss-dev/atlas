@@ -19,20 +19,37 @@ kind: EPR
 # Content
 
 ## Unit 1
-
-- Overview of CSE & IT as a discipline, differentiation between CS & IT, Broader industrial applications of CSE &IT such as software development, Database oriented applications, computer networks and related applications, System oriented scope at operating system level and hardware level.
+   - Overview of CSE & IT as a discipline
+   - Differentiation between CS & IT
+   - Broader industrial applications of CSE & IT such as:
+   - Software development
+   - Database oriented applications
+   - Computer networks and related applications
+   - System-oriented scope at operating system level and hardware level
 
 ## Unit 2
-
-- Programming oriented directions and scope, competitive programming, algorithms and their performance related issues; Necessity of data base systems and its applications, discussion about data mining; Conceptual overview of Computer Architecture, operating system's functioning, automata theory and its applications, Basics of Computer Networks and recent developments in this area; Visit to department labs, CCN and server rooms, library and Institute automation software.
-
+   - Programming-oriented directions and scope
+   - Competitive programming
+   - Algorithms and their performance-related issues
+   - Necessity of database systems and its applications
+   - Discussion about data mining
+   - Conceptual overview of computer architecture
+   - Operating system's functioning
+   - Automata theory and its applications
+   - Basics of computer networks and recent developments in this area
+   - Visit to department labs, CCN and server rooms, library and Institute automation software
+   
 ## Unit 3
-
-- Overview of adding intelligence to machines using soft computing, Importance of Information security and introduction to basis terminologies such as virus, worm, Trojan, vulnerabilities, denial of services, ethical hacking Overview of Applications and scope of mobile application development, image processing and natural language processing.
-
+   - Overview of adding intelligence to machines using soft computing
+   - Importance of information security and introduction to basic terminologies such as virus worm, Trojan, vulnerabilities, denial of services, ethical hacking
+   - Overview of applications and scope of mobile application development
+   - Image processing and natural language processing
+   
 ## Unit 4
-
-- Recent Developments in the area of Computer Vision, and Human Computer Interaction Awareness about cloud and distributed computing Technologies and issues behind Social networking oriented system design and development Futuristic areas like machine learning, big data analytics.
+   - Recent developments in the area of computer vision and human-computer interaction
+   - Awareness about cloud and distributed computing technologies and issues behind
+   - Social networking-oriented system design and development
+   - Futuristic areas like machine learning and big data analytics.
 
 # Reference Books
 
