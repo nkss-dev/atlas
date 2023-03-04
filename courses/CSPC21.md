@@ -8,7 +8,7 @@ specifics:
     semester: 3
     credits: [3, 1, 2, 5]
 
-prereq: []
+prereq: [CSPC12]
 kind: PC1
 ---
 
