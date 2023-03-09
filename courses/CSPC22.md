@@ -13,7 +13,13 @@ prereq: [CSPC10, CSPC29]
 kind: PC2
 ---
 
-# Course Learning Objectives
+# Objectives
+
+- To provide an introduction to the basic principles and applications of microprocessor to solve real life problems.
+- To give an expose of assembly language programming.
+- To make familiar with the implementation of various interfaces with microprocessor.
+
+# Content
 
 ## Unit 1
 
@@ -22,14 +28,22 @@ kind: PC2
    - 8086 architecture
    - Internal operation
    - Machine language instructions
-   - Instruction execution time (Timing Diagram: Fetch Cycle, Execution Cycle).
+   - Instruction execution time (Timing Diagram: Fetch Cycle, Execution Cycle)
 
 ## Unit 2
 
 1. **Assembly Language Programming:**
    - Instruction format
-   - Instruction Types (data transfer instruction, arithmetic instructions, branch instruction, NOP & HLT instructions, flag manipulation instruction, logical instruction, shift and rotate instruction, String instructions)
-   - Assembler directions and operators.
+   - **Instruction Types:**
+     - Data transfer instruction
+     - Arithmetic instructions
+     - Branch instruction
+     - NOP & HLT instructions
+     - Flag manipulation instruction
+     - Logical instruction
+     - shift and rotate instruction
+     - String instructions
+   - Assembler directions and operators
 
 ## Unit 3
 
@@ -37,7 +51,9 @@ kind: PC2
    - Memory Interfacing (Static RAMs & ROMs)
    - Stacks
    - Procedures
-   - Macros – local labels and nested macros.
+   - Macros
+     - Local labels
+     - Nested macros
 
 ## Unit 4
 
@@ -52,17 +68,17 @@ kind: PC2
    - DMA with controller (8237)
    - 8254 Programmable interval Timer (8253/8254)
    - Interfacing to A/D and D/A converters
-   - Stepper motor interfacing.
+   - Stepper motor interfacing
 
 # Reference Books
 
-1. Liu and Gibson, Microcomputer Systems: 8086/8088 family: Architecture, Programming and Design, PHI.
-2. D.V. Hall, Microprocessors and Interfacing, TMH.
-3. A. K. Ray & K.M. Bhurchandi, Advanced Microprocessors and Peripherals: Architecture, Programming and interfacing, TMH.
-4. Bray, the Intel Microprocessor 8086/8088-Pentium: Architecture, Programming and interfacing, PHI
-5. James L. Antonakos, The Intel Microprocessor family H/W and S/W Principles and Applications, Cengage Learning
+- Liu and Gibson, Microcomputer Systems: 8086/8088 family: Architecture, Programming and Design, PHI
+- D.V. Hall, Microprocessors and Interfacing, TMH
+- A. K. Ray & K.M. Bhurchandi, Advanced Microprocessors and Peripherals: Architecture, Programming and interfacing, TMH
+- Bray, the Intel Microprocessor 8086/8088-Pentium: Architecture, Programming and interfacing, PHI
+- James L. Antonakos, The Intel Microprocessor family H/W and S/W Principles and Applications, Cengage Learning
 
-# Course Outcomes
+# Outcomes
 
 - Develop an understanding of basic concepts of microprocessors.
 - Understand the instruction set of 8086.
