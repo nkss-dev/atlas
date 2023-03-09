@@ -23,7 +23,7 @@ kind: PC3
 
 ## Unit 1
 
-1. **Linux Startup and Shell Programming**
+1. **Linux Startup and Shell Programming:**
    - User accounts, accessing Linux
    - Starting and shutting process
    - Logging in and logging out
@@ -38,36 +38,35 @@ kind: PC3
 
 ## Unit 2
 
-1. **The C/C++ Environment**
+1. **The C/C++ Environment:**
    - The C compiler
    - vi editor, compiler options, managing projects
    - Memory management, use of makefiles, dependency calculations, dynamic and static memory
    - Building and using static and dynamic libraries, using ldd, soname, dynamic loader
    - Debugging with gdb
-   - Introduction to Python programming.
+   - Introduction to Python programming
 
 ## Unit 3
 
-1. **Processes in Linux**
+1. **Processes in Linux:**
    - Processes, starting and stopping processes, initialization processes, rc and init files
    - Job control - at, batch, cron, time, network files, security, privileges, authentication, password administration, archiving
    - Signals and signal handlers
-   - Linux I/O system.
+   - Linux I/O system
 
-## Reference Books
+# Reference Books
 
-1. Sumitabha Das: Your Unix- The Ultimate Guide, TMH, 2012
-2. Behrouz A. Forouzan, Richard F. Gilberg: UNIX and Shell Programming, Brooks/Cole-Thomson Learning (CENGAGE Learning, India), 2009
-3. John Goerzen: Linux Programming Bible, IDG Books, New Delhi, 2000
-4. Neil Matthew, Richard Stones: Beginning Linux Programming, Wrox-Shroff, 2007
-5. Welsh & Kaufmann: Running Linux, O’Reiley & Associates, 2000
-6. Guido van Rossum: An Introduction to Python, Network Theory Ltd, 2011
-7. The Python Tutorial Online Book (http://docs.python.org/3/tutorial/index.html)
+- Sumitabha Das: Your Unix- The Ultimate Guide, TMH, 2012
+- Behrouz A. Forouzan, Richard F. Gilberg: UNIX and Shell Programming, Brooks/Cole-Thomson Learning (CENGAGE Learning, India), 2009
+- John Goerzen: Linux Programming Bible, IDG Books, New Delhi, 2000
+- Neil Matthew, Richard Stones: Beginning Linux Programming, Wrox-Shroff, 2007
+- Welsh & Kaufmann: Running Linux, O’Reiley & Associates, 2000
+- Guido van Rossum: An Introduction to Python, Network Theory Ltd, 2011
+- The Python Tutorial Online Book (http://docs.python.org/3/tutorial/index.html)
 
 # Outcomes
 
 - Understand the Unix/Linux operating system, installation procedures, basic utilities command, and basics of shell programming.
-- Handle the files or records through various Unix/Linux tools by using regular expressions.
+- Handle the files or records through various Unix/Linux tools by using regular expressions
 - Learn C/C++ environment, Makefile, libraries, linking, debugging methodologies, and apply the advantages of Python programming.
-- Manipulate the processes and manage the networks securely in Linux. 
-
+- Manipulate the processes and manage the networks securely in Linux
