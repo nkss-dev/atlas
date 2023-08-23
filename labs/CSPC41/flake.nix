@@ -12,8 +12,7 @@
       {
         devShells.default = pkgs.mkShell {
           nativeBuildInputs = with pkgs; [
-            jupyter
-            (python3.withPackages (p: with p; [ notebook pandas ]))
+            (python3.withPackages (p: with p; [ jupyterlab pandas ]))
           ];
         };
       }        
