@@ -12,9 +12,9 @@
       {
         devShells.default = pkgs.mkShell {
           nativeBuildInputs = with pkgs; [
-            (python3.withPackages (p: with p; [ jupyterlab matplotlib numpy pandas scikit-learn ]))
+            (python3.withPackages (p: with p; [ jupyterlab matplotlib numpy pandas sklearn-deap ]))
           ];
         };
-      }        
+      }
     );
 }
