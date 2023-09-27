@@ -18,6 +18,7 @@
               numpy
               pandas
               scipy
+              seaborn
               sklearn-deap
               statsmodels
             ]))
