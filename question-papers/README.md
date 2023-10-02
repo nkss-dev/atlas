@@ -33,7 +33,7 @@ Following is the format of these files:
         prompt = "Any answer other than 'Fine.' will result in negative marking.";
         image = "https://i.imgur.com/foo.png";
       }];
-      marks = 5;
+      marks = 5; # usually a number, but can also be a string sum of marks (eg. "2+2.5+2.5")
     }
     ...
   ];
