@@ -23,7 +23,6 @@ Following is the format of these files:
   semester = 7; # the semester of the batch for which the exam was given
   pages = 1; # total number of pages
   time = "50 minutes"; # time given
-  marks = 15; # total marks
 
   # the array containing all the questions
   questions = [

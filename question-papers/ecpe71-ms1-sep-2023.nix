@@ -10,7 +10,6 @@
   semester = 7;
   pages = 1;
   time = "50 minutes";
-  marks = 15;
 
   questions = [
     {
