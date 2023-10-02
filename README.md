@@ -4,7 +4,13 @@ A map of all the hand-crafted courses and potentially other material in the futu
 
 ## What do you currently store?
 
-As of now, we only store the data for every courses that the college has to offer. We're in the process of adding more and more courses as we go. If you would like to help out, please refer our [contribution guidelines](/CONTRIBUTING.md) :)
+As of now, we store 3 things:
+
+1. The syllabi for every courses that the college has to offer.
+2. Some subjective lab work that students can simply view and refer from.
+3. Question papers. We store these in plain-text format that can be processed into a PDF (see [README](/question-papers/README.md) for more information)
+
+We're in the process of adding more courses and question papers as we go. If you would like to help out, please refer our [contribution guidelines](/CONTRIBUTING.md) :)
 
 ## Why GitHub?
 
