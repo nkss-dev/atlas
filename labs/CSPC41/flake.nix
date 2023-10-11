@@ -22,6 +22,7 @@
               sklearn-deap
               statsmodels
             ]))
+            (python311Packages.callPackage ./pydotplus.nix { })
           ];
         };
       }
