@@ -22,8 +22,9 @@
               seaborn
               sklearn-deap
               statsmodels
+
+              (callPackage ./pydotplus.nix { })
             ]))
-            (python311Packages.callPackage ./pydotplus.nix { })
           ];
         };
       }

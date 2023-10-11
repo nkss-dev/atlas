@@ -1,4 +1,4 @@
-{ buildPythonPackage, fetchFromGitHub, lib, pip, python311Packages, pythonOlder, setuptools }:
+{ buildPythonPackage, fetchFromGitHub, lib, pyparsing }:
 
 buildPythonPackage rec {
   pname = "pydotplus";
@@ -13,9 +13,7 @@ buildPythonPackage rec {
   };
 
   propagatedBuildInputs = [
-    python311Packages.pyparsing
-    pip
-    setuptools
+    pyparsing
   ];
 
   meta = with lib; {
