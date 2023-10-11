@@ -12,6 +12,7 @@
       {
         devShells.default = pkgs.mkShell {
           nativeBuildInputs = with pkgs; [
+            graphviz
             (python3.withPackages (p: with p; [
               jupyterlab
               matplotlib
