@@ -2,31 +2,36 @@
   description = "Dev environment for Machine Learning";
 
   inputs = {
-    flake-utils.url = "github:numtide/flake-utils";
+    nix-env.url = "github:GetPsyched/nix-starter-flakes?dir=nix";
+    nix-env.inputs.nixpkgs.follows = "nixpkgs";
   };
 
-  outputs = { self, nixpkgs, flake-utils }:
-    flake-utils.lib.eachDefaultSystem (system:
-      let pkgs = import nixpkgs { inherit system; };
-      in
-      {
-        devShells.default = pkgs.mkShell {
-          nativeBuildInputs = with pkgs; [
-            graphviz
-            (python3.withPackages (p: with p; [
-              jupyterlab
-              matplotlib
-              numpy
-              pandas
-              scipy
-              seaborn
-              sklearn-deap
-              statsmodels
+  outputs = { nixpkgs, nix-env, ... }@inputs:
+    let
+      system = "x86_64-linux";
+      pkgs = import nixpkgs { inherit system; };
+      nix-env-pkgs = nix-env.outputs.packages.${system};
+    in
+    {
+      devShell.${system} = pkgs.mkShell {
+        nativeBuildInputs = with pkgs; [
+          nix-env-pkgs.default
+          nix-env-pkgs.vscode
 
-              (callPackage ./pydotplus.nix { })
-            ]))
-          ];
-        };
-      }
-    );
+          graphviz
+          (python3.withPackages (p: with p; [
+            jupyterlab
+            matplotlib
+            numpy
+            pandas
+            scipy
+            seaborn
+            sklearn-deap
+            statsmodels
+
+            (callPackage ./pydotplus.nix { })
+          ]))
+        ];
+      };
+    };
 }
