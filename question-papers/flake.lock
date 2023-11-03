@@ -1,0 +1,47 @@
+{
+  "nodes": {
+    "nix-env": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "dir": "nix",
+        "lastModified": 1698660848,
+        "narHash": "sha256-RomqCZlVr9TM80joawczSLzVgcie8CDbyozevC1Mx7Q=",
+        "owner": "GetPsyched",
+        "repo": "nix-starter-flakes",
+        "rev": "618eb19a455d067ca2590d0b819f3b877df32309",
+        "type": "github"
+      },
+      "original": {
+        "dir": "nix",
+        "owner": "GetPsyched",
+        "repo": "nix-starter-flakes",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1697723726,
+        "narHash": "sha256-SaTWPkI8a5xSHX/rrKzUe+/uVNy6zCGMXgoeMb7T9rg=",
+        "path": "/nix/store/4jfc6vrkmq7z5pb651jh5b4kra5f1kwp-source",
+        "rev": "7c9cc5a6e5d38010801741ac830a3f8fd667a7a0",
+        "type": "path"
+      },
+      "original": {
+        "id": "nixpkgs",
+        "type": "indirect"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nix-env": "nix-env",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
