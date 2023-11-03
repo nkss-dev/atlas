@@ -1,6 +1,6 @@
 ---
-code: PRPC13
-title: Fluid Mechanics and Machines
+code: PRPC14
+title: Theory of Machines
 needs_screening: true
 
 specifics:
