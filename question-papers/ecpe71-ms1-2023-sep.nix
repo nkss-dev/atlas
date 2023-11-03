@@ -13,23 +13,33 @@
 
   questions = [
     {
-      contents = [{ text = "Explain 2-dimensional (2D) sampling. Also, draw the spectrum of a 2D sampled signal."; }];
+      contents = [{
+        text = ''
+          Explain 2-dimensional (2D) sampling. Also, draw the spectrum of a 2D
+          sampled signal.
+        '';
+      }];
       marks = 4;
     }
     {
       contents = [{
         text = ''
           For a 2&times;2 unitary transform `A` and the input image `U`:
-            - a. Check the orthogonality of the matrix `A`
-            - b. Calculate the transformed image `V`
-            - c. Calculate the basis images for this transform
+            1. Check the orthogonality of the matrix `A`
+            2. Calculate the transformed image `V`
+            3. Calculate the basis images for this transform
         '';
         image = "https://i.imgur.com/mlD7LBy.png";
       }];
       marks = "2+2.5+2.5";
     }
     {
-      contents = [{ text = "Discuss RGB and CMY colour spaces. Also, explain the conversion from RGB to CMY model and vice-versa."; }];
+      contents = [{
+        text = ''
+          Discuss RGB and CMY colour spaces. Also, explain the conversion from
+          RGB to CMY model and vice-versa.
+        '';
+      }];
       marks = 4;
     }
   ];

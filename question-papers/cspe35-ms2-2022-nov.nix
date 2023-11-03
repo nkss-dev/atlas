@@ -14,29 +14,54 @@
   questions = [
     {
       contents = [{
-        text = "Write the code to access an audio and a video resource file in multimedia handling in Android Studio.";
+        text = ''
+          Write the code to access an audio and a video resource file in
+          multimedia handling in Android Studio.
+        '';
         prompt = "Assume file location / directory as per requirement";
       }];
       marks = 2;
     }
     {
-      contents = [{ text = "What is the role of Intent in Android Studio? Describe the types of Intents with examples for each."; }];
+      contents = [{
+        text = ''
+          What is the role of Intent in Android Studio? Describe the types of
+          Intents with examples for each.
+        '';
+      }];
       marks = 3;
     }
     {
       contents = [
         {
-          text = "Describe the ARM architecture and its three architecture profiles briefly. Differentiate between RISC and CISC instruction sets in Android Application Development.";
+          text = ''
+            Describe the ARM architecture and its three architecture profiles
+            briefly. Differentiate between RISC and CISC instruction sets in
+            Android Application Development.
+          '';
         }
         {
-          text = "Construct a navigation bar created for a coffee shop application in Android Studio. Write XML code for the GUI of your design. Assume variables as per your choice. Draw the rough diagram / view of the GUI, which will be formed by the XML code. Also, write the corresponding Java code for the “Place Order” button which performs the required order completion request after adding the coffees in the cart.";
+          text = ''
+            Construct a navigation bar created for a coffee shop application in
+            Android Studio. Write XML code for the GUI of your design. Assume
+            variables as per your choice. Draw the rough diagram / view of the
+            GUI, which will be formed by the XML code. Also, write the
+            corresponding Java code for the “Place Order” button which performs
+            the required order completion request after adding the coffees in
+            the cart.
+          '';
           prompt = "Write only the main parts of the code";
         }
       ];
       marks = 5;
     }
     {
-      contents = [{ text = "Explain service life-cycle with a block diagram. Also describe `startService()` and `bindService()` callback methods."; }];
+      contents = [{
+        text = ''
+          Explain service life-cycle with a block diagram. Also describe
+          `startService()` and `bindService()` callback methods.
+        '';
+      }];
       marks = 5;
     }
   ];

@@ -15,9 +15,13 @@
     {
       contents = [{
         text = ''
-          Mr. X is a middle level manager. He keeps all his subordinates under a lot of discipline. His employees, however, complain of wastage of time and efforts as they feel that nothing is being assigned in a proper way and a proper place; no proper schedule is made for working.
+          Mr. X is a middle level manager. He keeps all his subordinates under
+          a lot of discipline. His employees, however, complain of wastage of
+          time and efforts as they feel that nothing is being assigned in a
+          proper way and a proper place; no proper schedule is made for working.
 
-          Which principle of Henry Fayol has been violated by him? What will be the consequences of the violation of this principle?
+          Which principle of Henry Fayol has been violated by him? What will be
+          the consequences of the violation of this principle?
         '';
       }];
       marks = 3;
@@ -26,15 +30,18 @@
       contents = [{
         text = ''
           Examine the following statements critically:
-            - a. Management is an open system approach.
-            - b. Gang Plank in Scalar Chain.
+            1. Management is an open system approach.
+            2. Gang Plank in Scalar Chain.
         '';
       }];
       marks = 6;
     }
     {
       contents = [{
-        text = "Explain the process of planning. Also, differentiate between strategic planning and operational planning with suitable examples.";
+        text = ''
+          Explain the process of planning. Also, differentiate between strategic
+          planning and operational planning with suitable examples.
+        '';
       }];
       marks = 6;
     }

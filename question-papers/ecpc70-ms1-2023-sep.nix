@@ -21,19 +21,24 @@
             - Spacing between centers of cavities: L = 4cm
             - Effective shunt impedance: R<sub>sh</sub> = 40kΩ
 
-          Given X = 1.841, J<sub>1</sub>(X) = 0.582, and R<sub>0</sub> = V<sub>0</sub>/I<sub>0</sub>, determine:
-            - a. The electron velocity
-            - b. The dc electron transit time
-            - c. The input voltage for maximum output voltage
-            - d. The voltage gain in decibels
-            - e. Efficiency of the amplifier
+          Given X = 1.841, J<sub>1</sub>(X) = 0.582, and R<sub>0</sub> =
+          V<sub>0</sub>/I<sub>0</sub>, determine:
+            1. The electron velocity
+            2. The dc electron transit time
+            3. The input voltage for maximum output voltage
+            4. The voltage gain in decibels
+            5. Efficiency of the amplifier
         '';
       }];
       marks = 4;
     }
     {
       contents = [{
-        text = "Describe the process of velocity modulation in a reflex klystron. Derive the expression for the round trip transit time in the repeller region in terms of the bunching parameter.";
+        text = ''
+          Describe the process of velocity modulation in a reflex klystron.
+          Derive the expression for the round trip transit time in the repeller
+          region in terms of the bunching parameter.
+        '';
       }];
       marks = 4;
     }
@@ -46,16 +51,19 @@
             - Circuit length: N = 50
 
           Given the above, determine:
-            - a. The gain parameter
-            - b. The output power gain `A<sub>p</sub>` in decibels
-            - c. All four propagation constants
+            1. The gain parameter
+            2. The output power gain `A<sub>p</sub>` in decibels
+            3. All four propagation constants
         '';
       }];
       marks = 4;
     }
     {
       contents = [{
-        text = "Name some microwave cross field tubes. Describe the principle of operation of a normal cylindrical magnetron and its characterisitics.";
+        text = ''
+          Name some microwave cross field tubes. Describe the principle of
+          operation of a normal cylindrical magnetron and its characterisitics.
+        '';
       }];
       marks = 3;
     }
