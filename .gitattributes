@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Detect Markdown files
+*.md linguist-detectable=true
