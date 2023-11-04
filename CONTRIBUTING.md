@@ -1,6 +1,6 @@
-# Welcome to NKSSS Atlas' contributing guide
+# Welcome to the contributing guide for Atlas
 
-Hey! Thank you so much for willing to contribute to one of the goals NKSSS attempts to achieve. Please refer below on how to contribute.
+Hey! Thank you so much for willing to contribute to one of the goals NKSS attempts to achieve. Please refer below on how to contribute.
 
 ## Steps to contribute to courses
 
