@@ -4,7 +4,7 @@
 
   date = { day = 4; month = "Sep"; year = 2023; };
   programme = "B. Tech.";
-  course.name = "Profressional Ethics and Intellectual Property Rights";
+  course.name = "Profressional Ethics and IPR";
   course.code = "HSIR13";
 
   semester = 7;
