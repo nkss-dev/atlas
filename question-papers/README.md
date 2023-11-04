@@ -30,8 +30,8 @@ Following is the format of these files:
       # contents can contain multiple of the below objects which, if any, will be resolved as OR questions.
       contents = [{
         text = "How was your day?"; # this attribute supports markdown formatting
-        prompt = "Any answer other than 'Fine.' will result in negative marking.";
-        image = "https://i.imgur.com/foo.png";
+        prompt = "Any answer other than 'Fine.' will result in negative marking."; # a prompt to display on the bottom right of the question
+        image = "https://i.imgur.com/foo.png"; # anything that can't be typed feasibly; eg. formulae, diagrams, etc.
       }];
       marks = 5; # usually a number, but can also be a string sum of marks (eg. "2+2.5+2.5")
     }
