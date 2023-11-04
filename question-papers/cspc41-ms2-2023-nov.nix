@@ -41,9 +41,9 @@
     {
       contents = [{
         text = ''
-        For the table in Q1, using Naïve-Bayes algorithm, predict the
-        win probability for input: (batting, fast, normal).
-          '';
+          For the table in Q1, using Naïve-Bayes algorithm, predict the win
+          probability for input: (batting, fast, normal).
+        '';
       }];
       marks = 5;
     }
