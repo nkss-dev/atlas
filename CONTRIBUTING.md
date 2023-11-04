@@ -30,4 +30,4 @@ This is a new way of storing question papers that I've tried my hand at. Since I
 
 To solve this problem, I made [Printer](https://github.com/GetPsyched/printer), a deterministic plaintext to HTML/PDF generator. This converts all the files in the [question-papers](./question-papers/) folder to an HTML/PDF file.
 
-To add more question papers here, refer this [README](./question-papers/README.md) for a reference on the template and type in the questions. The process should mostly be self-explanatory. If you're confused, open a GitHub discussion or hit me up on [our Discord server](https://discord.gg/3P3wg3Yahp)
+To add more question papers here, refer this [README](./question-papers/README.md) for a reference on the template and type in the questions. The process should mostly be self-explanatory. If you're confused, [open a GitHub discussion](https://github.com/nkss-dev/atlas/discussions/new?category=q-a) or hit me up on [our Discord server](https://discord.gg/3P3wg3Yahp)
