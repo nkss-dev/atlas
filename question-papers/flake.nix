@@ -14,7 +14,12 @@
     in
     {
       devShells.${system}.default = pkgs.mkShell {
-        buildInputs = with nix-env-pkgs; [ default vscode ];
+        buildInputs = with nix-env-pkgs; [
+          default
+          (vscode.override {
+            extensions = with pkgs.vscode-extensions; [ foxundermoon.shell-format ];
+          })
+        ];
       };
     };
 }
