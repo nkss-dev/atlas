@@ -39,3 +39,9 @@ Following is the format of these files:
   ];
 }
 ```
+
+## Contributing
+
+To add more question papers here, please send a PR with Nix files following the above format. To test the output of your Nix file:
+- Please run `./print.sh foo.nix`, where `foo.nix` should be replaced by the actual name of the file.
+- The output of the file should be opened automatically in your default browser. If not, you can find the file located in `.auto-gen/foo.nix.html`
