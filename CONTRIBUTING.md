@@ -26,7 +26,7 @@ This is a simple store for lab work. We're still moving the data from [B.Tech As
 
 ### Question papers
 
-This is a new way of storing question papers that I've tried my hand at. Since I own [Harbour](https://drive.google.com/drive/u/2/folders/17wuToa6LFSnAAguKgaaiixEJJFP0muka), I've had to handle question papers in a huge quantity. I've tried to automate this using a function in Project Hyperlink but it only went so far.
+This is a new way of storing question papers that I've tried my hand at. Since I own [Harbour](https://drive.google.com/drive/folders/17wuToa6LFSnAAguKgaaiixEJJFP0muka), I've had to handle question papers in a huge quantity. I've tried to automate this using a function in Project Hyperlink but it only went so far.
 
 To solve this problem, I made [Printer](https://github.com/GetPsyched/printer), a deterministic plaintext to HTML/PDF generator. This converts all the files in the [question-papers](./question-papers/) folder to an HTML/PDF file.
 
