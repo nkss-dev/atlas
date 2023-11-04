@@ -2,7 +2,7 @@
   title = "NATIONAL INSTITUTE OF TECHNOLOGY, KURUKSHETRA";
   subtitle = "MID TERM - 1 EXAMINATION";
 
-  date = { day = 0; month = "Sep"; year = 2023; };
+  date = { month = "Sep"; year = 2023; };
   programme = "B. Tech.";
   course.name = "Wireless and Mobile Communication";
   course.code = "ECPC72";
