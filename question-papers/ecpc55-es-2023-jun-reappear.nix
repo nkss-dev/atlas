@@ -125,9 +125,9 @@
           text = ''
             Write a program to drive the stepper motor at 30 RPM (one
             clockwise and two anti-clockwise rotations). Draw the complete
-            interface diagram. (assume step size 1.8 degree, f<sub>clk</sub>
-            = 5 MHz).
+            interface diagram.
           '';
+          prompt = "Assume step size 1.8 degree, f<sub>clk</sub> = 5 MHz";
           marks = 6;
         }
         {
