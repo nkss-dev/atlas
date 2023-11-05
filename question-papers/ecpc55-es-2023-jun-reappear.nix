@@ -10,6 +10,10 @@
   semester = 5;
   pages = 2;
   time = "3 hours";
+  note = ''
+    Draw complete circuits/block diagrams if necessary. Assume necessary
+    information/data.
+  '';
 
   questions = [
     {
