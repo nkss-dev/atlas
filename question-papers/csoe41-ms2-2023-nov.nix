@@ -12,8 +12,8 @@
   time = "50 minutes";
 
   questions = [
-    {
-      contents = [{
+    [
+      [{
         text = ''
           Consider the set of 5 processes whose arrival time and burst time are
           given below:
@@ -34,35 +34,35 @@
           find the average waiting time, average turn-around time, and
           throughput with the help of a Gantt chart.
         '';
-      }];
-      marks = 4;
-    }
-    {
-      contents = [{
+        marks = 4;
+      }]
+    ]
+    [
+      [{
         text = ''
           What advantage is there in having different time-quantum sizes at
           different levels of a multi-level queueing system?
         '';
-      }];
-      marks = 2;
-    }
-    {
-      contents = [{
+        marks = 2;
+      }]
+    ]
+    [
+      [{
         text = ''
           What are the necessary conditions for a deadlock occurrence in an
           operating system? Briefly describe each condition.
         '';
-      }];
-      marks = 4;
-    }
-    {
-      contents = [{
+        marks = 4;
+      }]
+    ]
+    [
+      [{
         text = ''
           What is the critical section problem? How does Peterson's solution
           help to solve the critical section problem?
         '';
-      }];
-      marks = 5;
-    }
+        marks = 5;
+      }]
+    ]
   ];
 }

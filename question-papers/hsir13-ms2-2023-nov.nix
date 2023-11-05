@@ -12,8 +12,8 @@
   time = "50 minutes";
 
   questions = [
-    {
-      contents = [{
+    [
+      [{
         text = ''
           Ethical dilemmas in organisations may arise when they employ
           multi-racial employees. Several organisations are accused of racial
@@ -22,17 +22,17 @@
           Comment on personal beliefs versus organisational practices in this
           context; how does it enlarge ethical dilemma?
         '';
-      }];
-      marks = "5+3";
-    }
-    {
-      contents = [{
+        marks = "5+3";
+      }]
+    ]
+    [
+      [{
         text = ''
           An act that is morally good can lead to something not good. Comment on
           the statement in reference to utilitarianism.
         '';
-      }];
-      marks = 7;
-    }
+        marks = 7;
+      }]
+    ]
   ];
 }

@@ -26,16 +26,18 @@ Following is the format of these files:
 
   # the array containing all the questions
   questions = [
-    {
-      # contents can contain multiple of the below objects which, if any, will be resolved as OR questions.
-      contents = [{
-        text = "How was your day?"; # this attribute supports markdown formatting
-        prompt = "Any answer other than 'Fine.' will result in negative marking."; # a prompt to display on the bottom right of the question
-        image = "https://i.imgur.com/foo.png"; # anything that can't be typed feasibly; eg. formulae, diagrams, etc.
-      }];
-      marks = 5; # usually a number, but can also be a string sum of marks (eg. "2+2.5+2.5")
-    }
-    ...
+    [
+      # questions can contain multiple of the below OR questions.
+      [
+        # each question can contain multiple of the below sub-questions.
+        {
+          text = "How was your day?"; # this attribute supports markdown formatting
+          prompt = "Any answer other than 'Fine.' will result in negative marking."; # a prompt to display on the bottom right of the question
+          image = "https://i.imgur.com/foo.png"; # anything that can't be typed feasibly; eg. formulae, diagrams, etc.
+          marks = 5; # usually a number, but can also be a string sum of marks (eg. "2+2.5+2.5")
+        }
+      ]
+    ]
   ];
 }
 ```
@@ -43,5 +45,6 @@ Following is the format of these files:
 ## Contributing
 
 To add more question papers here, please send a PR with Nix files following the above format. To test the output of your Nix file:
+
 - Please run `./print.sh foo.nix`, where `foo.nix` should be replaced by the actual name of the file.
 - The output of the file should be opened automatically in your default browser. If not, you can find the file located in `.auto-gen/foo.nix.html`

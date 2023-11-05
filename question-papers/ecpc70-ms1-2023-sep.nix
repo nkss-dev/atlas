@@ -12,8 +12,8 @@
   time = "50 minutes";
 
   questions = [
-    {
-      contents = [{
+    [
+      [{
         text = ''
           A two-cavity amplifier klystron has the following parameters:
             - V<sub>0</sub> = 900V, I<sub>0</sub> = 30mA, f = 8GHz
@@ -29,21 +29,21 @@
             4. The voltage gain in decibels
             5. Efficiency of the amplifier
         '';
-      }];
-      marks = 4;
-    }
-    {
-      contents = [{
+        marks = 4;
+      }]
+    ]
+    [
+      [{
         text = ''
           Describe the process of velocity modulation in a reflex klystron.
           Derive the expression for the round trip transit time in the repeller
           region in terms of the bunching parameter.
         '';
-      }];
-      marks = 4;
-    }
-    {
-      contents = [{
+        marks = 4;
+      }]
+    ]
+    [
+      [{
         text = ''
           A travelling-wave cube (TWT) operates under the following parameters:
             - V<sub>0</sub> = 3kV, I<sub>0</sub> = 30mA, f = 10GHz
@@ -55,17 +55,17 @@
             2. The output power gain `A<sub>p</sub>` in decibels
             3. All four propagation constants
         '';
-      }];
-      marks = 4;
-    }
-    {
-      contents = [{
+        marks = 4;
+      }]
+    ]
+    [
+      [{
         text = ''
           Name some microwave cross field tubes. Describe the principle of
           operation of a normal cylindrical magnetron and its characterisitics.
         '';
-      }];
-      marks = 3;
-    }
+        marks = 3;
+      }]
+    ]
   ];
 }

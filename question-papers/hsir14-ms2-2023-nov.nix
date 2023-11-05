@@ -12,15 +12,17 @@
   time = "50 minutes";
 
   questions = [
-    {
-      contents = [{
+    [
+      [{
         text = "Discuss, in detail, long term sources of finance.";
-      }];
-      marks = 9;
-    }
-    {
-      contents = [{ text = "Explain product mix with suitable examples."; }];
-      marks = 6;
-    }
+        marks = 9;
+      }]
+    ]
+    [
+      [{
+        text = "Explain product mix with suitable examples.";
+        marks = 6;
+      }]
+    ]
   ];
 }

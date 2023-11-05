@@ -12,23 +12,23 @@
   time = "50 minutes";
 
   questions = [
-    {
-      contents = [{
+    [
+      [{
         text = ''
           Write the algorithm for decrease key operation in a binomial heap.
           Also, discuss with a suitable example.
         '';
-      }];
-      marks = 7.5;
-    }
-    {
-      contents = [{
+        marks = 7.5;
+      }]
+    ]
+    [
+      [{
         text = ''
           Write the algorithm for delete operation in Fibonacci Heap. Also,
           discuss the amortised cost.
         '';
-      }];
-      marks = 7.5;
-    }
+        marks = 7.5;
+      }]
+    ]
   ];
 }

@@ -12,8 +12,8 @@
   time = "50 minutes";
 
   questions = [
-    {
-      contents = [{
+    [
+      [{
         text = ''
           For the following data, using **Info-Gain**, find the attribute to be
           used for the split at the root of a decision tree.
@@ -35,20 +35,20 @@
 
             <br />
         '';
-      }];
-      marks = 5;
-    }
-    {
-      contents = [{
+        marks = 5;
+      }]
+    ]
+    [
+      [{
         text = ''
           For the table in Q1, using Naïve-Bayes algorithm, predict the win
           probability for input: (batting, fast, normal).
         '';
-      }];
-      marks = 5;
-    }
-    {
-      contents = [{
+        marks = 5;
+      }]
+    ]
+    [
+      [{
         text = ''
           A doctor checked 1000 patients, out of which he diagnosed 400 as
           `Diabetic` and 600 as `non-Diabetic`. Out of 400, 370 were actually
@@ -62,12 +62,14 @@
             3. What is the probability that the doctor classified an actual
                diabetic person as `Diabetic`?
         '';
-      }];
-      marks = 6;
-    }
-    {
-      contents = [{ text = "Explain adaptive boosting briefly"; }];
-      marks = 4;
-    }
+        marks = 6;
+      }]
+    ]
+    [
+      [{
+        text = "Explain adaptive boosting briefly.";
+        marks = 4;
+      }]
+    ]
   ];
 }

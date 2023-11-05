@@ -12,8 +12,8 @@
   time = "50 minutes";
 
   questions = [
-    {
-      contents = [{
+    [
+      [{
         text = ''
           Consider the following cases and define the type of security attack
           for each case.
@@ -26,36 +26,36 @@
             4. A student is trying to look into another student's answer sheet
                during an examination.
         '';
-      }];
-      marks = 4;
-    }
-    {
-      contents = [{
+        marks = 4;
+      }]
+    ]
+    [
+      [{
         text = ''
           Discuss the importance of the OSI security architecture. Briefly
           explain various security services as defined by OSI security
           architecture.
         '';
-      }];
-      marks = 4;
-    }
-    {
-      contents = [{
+        marks = 4;
+      }]
+    ]
+    [
+      [{
         text = ''
           Use the extended Euclidean algorithm to find the multiplicative
           inverse of `7` in Z<sub>180</sub>.
         '';
-      }];
-      marks = 4;
-    }
-    {
-      contents = [{
+        marks = 4;
+      }]
+    ]
+    [
+      [{
         text = ''
           Discuss, in brief, about the various challenges faced by security
           experts in providing computer security.
         '';
-      }];
-      marks = 3;
-    }
+        marks = 3;
+      }]
+    ]
   ];
 }
