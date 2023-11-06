@@ -1,7 +1,6 @@
 ---
 code: ECPC50
 title: Information Theory and Coding
-needs_screening: true
 
 specifics:
   - branch: EC
@@ -14,14 +13,13 @@ kind: PC
 
 # Objectives
 
-- To understand elements of information theory and source coding, Linear block
-codes, Cyclic codes, Convolutional codes.
+- To understand elements of information theory and source coding, Linear block codes, Cyclic codes, Convolutional codes.
 
 # Content
 
 ## Unit 1
 
-1. **ELEMENTS OF INFORMATION THEORY AND SOURCE CODING:**
+1. **Elements of Information Theory and Source Coding:**
    - Information as a measure of uncertainty
    - Entropy & its properties
    - Entropy of continuous sources
@@ -38,13 +36,12 @@ codes, Cyclic codes, Convolutional codes.
    - Shanon’s binary encoding
    - Fundamental theorem of discrete noiseless coding
    - Huffman’s minimum redundancy codes
-   - capacity of colored noise source
-   - water filling algorithms
-
+   - Capacity of colored noise source
+   - Water filling algorithms
 
 ## Unit 2
 
-1. **LINEAR BLOCK CODES:**
+1. **Linear Block Codes:**
    - Groups & fields, Galois fields & its construction
    - Minimal polynomial
    - vector spaces
@@ -57,20 +54,20 @@ codes, Cyclic codes, Convolutional codes.
 
 ## Unit 3
 
-1. **CYCLIC CODES:**
+1. **Cyclic Codes:**
    - Description of cyclic codes
    - Polynomial representation
    - Minimum degree code polynomial
    - Generator polynomial, Generator matrix
    - Systematic form
    - Parity check matrices
-   - cyclic codes encoders
+   - Cyclic codes encoders
    - Syndrome computation and error detection
    - Cyclic Hamming codes, Decoding of cyclic codes
-   
+
 ## Unit 4
 
-1. **CYCLIC CODES:**
+1. **Convolutional Codes:**
    - Encoding of Convolution codes
    - Structural properties of Convolution codes
    - State diagram
@@ -79,15 +76,14 @@ codes, Cyclic codes, Convolutional codes.
    - Free distance
    - Coding gain
    - Viterbi decoding
-   - distance properties of binary convolutional codes
+   - Distance properties of binary convolutional codes
    - Burst error correcting convolutional codes
-
 
 # Reference Books
 
-- F. M. Reza, Information Theory, McGraw Hill, 1st Ed..
-- Das, Mullick and Chatterjee, Digital Communication, Wiley Eastern Ltd, 3rd Ed..
-- Shu Lin and J. Costello, Error Control Coding, Prentice Hall, 3rd Ed..
+- F. M. Reza, Information Theory, McGraw Hill, 1st Ed.
+- Das, Mullick and Chatterjee, Digital Communication, Wiley Eastern Ltd, 3rd Ed.
+- Shu Lin and J. Costello, Error Control Coding, Prentice Hall, 3rd Ed.
 
 # Outcomes
 
