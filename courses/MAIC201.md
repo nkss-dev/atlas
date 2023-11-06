@@ -91,14 +91,11 @@ kind: EPR
     - Chi-Square test
     - Independence of attributes and goodness of fit
 
-# Text Books:
+# Reference Books
 
 - Joe L Mott, Kandel and Baker, Discrete Mathematics for Computer Scientists
 - J. P. Tremblay and R Manohar Discrete Mathematical Structures with applications to Computer Science, Tata McGraw Hill (2001)
 - Ronald E.Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye, Probability and Statistics for Engineers and Scientists, 9th Edition, 2012
-
-# Reference Books
-
 - Kolman, Bubby Ross, Discret Mathematics Structures, PHI, 2001
 - C.L. Liu,; Elements of Discrete Mathematics. 1986
 - Gary Haggard, J. Schlipf, S. Whitesides, Discrete Mathematics for Computer Science, Cengage Learning; 2005
