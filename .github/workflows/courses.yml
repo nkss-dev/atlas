@@ -17,7 +17,7 @@ jobs:
       - name: Send POST request
         env:
           JWT_SECRET: ${{ secrets.JWT_SECRET }}
-          API_URL: "https://api.nksss.live/courses"
+          API_URL: "https://breadboard.up.railway.app/courses"
         run: |
           curl -H "Authorization: Bearer $JWT_SECRET" \
           -H "Content-Type: application/json" \
