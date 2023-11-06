@@ -14,7 +14,7 @@ specifics:
     semester: 3
     credits: [3, 0, 0, 3]
 
-  - branch: AI & ML
+  - branch: AI
     semester: 3
     credits: [3, 0, 0, 3]
 
