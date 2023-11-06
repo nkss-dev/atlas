@@ -1,6 +1,6 @@
 {
   title = "NATIONAL INSTITUTE OF TECHNOLOGY, KURUKSHETRA";
-  subtitle = "MID TERM - II EXAMINATION";
+  subtitle = "MID TERM - 2 EXAMINATION";
 
   date = { day = 4; month = "Nov"; year = 2023; };
   programme = "B. Tech.";
