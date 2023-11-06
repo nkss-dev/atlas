@@ -2,7 +2,7 @@
   title = "NATIONAL INSTITUTE OF TECHNOLOGY , KURUKSHETRA";
   subtitle = "MID TERM - 1 EXAMINATION";
 
-  date = { month = "Sep" ; year = 2023; };
+  date = { day = 5; month = "Sep" ; year = 2023; };
   programme = "B. Tech.";
   cousre.name = "Generation Transmission and Distribution";
   cousre.code = "EEPC203";
