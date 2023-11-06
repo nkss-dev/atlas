@@ -1,8 +1,8 @@
 {
   title = "NATIONAL INSTITUE OF TECHNOLOGY, KURUKSHETRA";
-  subtile = "MID TERM - 2 EXAMINATION";
+  subtile = "MID TERM - 1 EXAMINATION";
 
-  date = { day = 4; month = "Nov"; year = 2023; };
+  date = { day = 4; month = "Sep"; year = 2023; };
   programme = "B.Tech.";
   course.name = "Analog and Digital Electronics";
   course.code = "EEPC202";
