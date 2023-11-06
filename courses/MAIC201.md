@@ -18,10 +18,6 @@ specifics:
     semester: 3
     credits: [3, 0, 0, 3]
 
-  - branch: PI
-    semester: <semester>
-    credits: [<lecture>, <tutorial>, <practical>, <total>]
-
 prereq: []
 kind: EPR
 ---
