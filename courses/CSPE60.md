@@ -15,12 +15,9 @@ kind: PE2
 
 # Objectives
 
-- Develop an understanding to the basic concepts of Random Processes, Expectations and Parameter
-Estimation.
-- Able to understand and apply the Stochastic processes to Science and Engineering problems and
-applications.
-- Able to calculate the n-step transition probabilities for any Markov chain and understand about the
-birth and death of processes.
+- Develop an understanding to the basic concepts of Random Processes, Expectations and Parameter Estimation.
+- Able to understand and apply the Stochastic processes to Science and Engineering problems and applications.
+- Able to calculate the n-step transition probabilities for any Markov chain and understand about the birth and death of processes.
 - Able to apply Markov chain & Birth Death process to real life problems.
 - Develop an understanding of various Queuing Systems.
 
@@ -37,7 +34,7 @@ birth and death of processes.
    - Covariance and Correlation
    - Auto and Cross Correlation
    - Correlation Co-efficient
-   - Parameter Estimation – Maximum Likelihood Estimation and Maximum a Posteriori.
+   - Parameter Estimation – Maximum Likelihood Estimation and Maximum a Posteriori
 
 ## Unit 2
 
@@ -51,7 +48,7 @@ birth and death of processes.
    - Renewal process
    - Advanced Renewal Theory
    - Renewal Function
-   - Alternating Renewal Processes.
+   - Alternating Renewal Processes
 
 ## Unit 3
 
@@ -65,7 +62,7 @@ birth and death of processes.
    - Pure Birth Process
    - Pure Death Process
    - Non-Birth-Death Processes
-   - Analysis of program execution time.
+   - Analysis of program execution time
 
 ## Unit 4
 
@@ -80,22 +77,18 @@ birth and death of processes.
    - M/G/1 queuing system
    - M/G/1 with non-FIFO disciplines
    - M/G/∞
-   - Queues with time-varying arrival rate.
+   - Queues with time-varying arrival rate
 
 # Reference Books
 
-- A. Populis and S.U. Pillai: Probability, Random Variables, and Stochastic Process, 4th Edition, McGraw-Hill.
-- S. Palaniammal: Probability and Queueing theory, Prentice Hall of India.
-- V. Sundarapandian: Probability, Statistics and Queueing Theory, Prentice Hall of India.
+- A. Populis and S.U. Pillai: Probability, Random Variables, and Stochastic Process, 4th Edition, McGraw-Hill
+- S. Palaniammal: Probability and Queueing theory, Prentice Hall of India
+- V. Sundarapandian: Probability, Statistics and Queueing Theory, Prentice Hall of India
 
 # Outcomes
 
-- Develop an understanding to the basic concepts of Random Processes, Expectations and Parameter
-Estimation.
-- Able to understand and apply the Stochastic processes to Science and Engineering problems and
-applications.
-- Able to calculate the n-step transition probabilities for any Markov chain and understand about the
-birth and death of processes.
+- Develop an understanding to the basic concepts of Random Processes, Expectations and Parameter Estimation.
+- Able to understand and apply the Stochastic processes to Science and Engineering problems and applications.
+- Able to calculate the n-step transition probabilities for any Markov chain and understand about the birth and death of processes.
 - Able to apply Markov chain & Birth Death process to real life problems.
 - Develop an understanding of various Queuing Systems.
-
