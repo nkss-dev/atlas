@@ -9,7 +9,7 @@ specifics:
     credits: [3, 0, 2, 4]
 
 prereq: []
-kind: PC
+kind: PC2
 ---
 
 # Objectives
@@ -34,7 +34,7 @@ kind: PC
    - Semantic Networks
    - Frames
    - Objects
-   - Hybrid Models.
+   - Hybrid Models
 
 ## Unit 2
 
@@ -48,7 +48,7 @@ kind: PC
    - Backpropagation Networks
    - Kohnen's self-organizing networks
    - Hopfield network
-   - Applications of NN.
+   - Applications of NN
 
 ## Unit 3
 
@@ -59,7 +59,7 @@ kind: PC
    - Rule-based models and linguistic variables
    - Fuzzy controls
    - Fuzzy decision-making
-   - Applications of fuzzy logic.
+   - Applications of fuzzy logic
 
 ## Unit 4
 
@@ -76,17 +76,17 @@ kind: PC
    - Applications
    - Ant Colony Optimization
    - Particle Swarm Optimization
-   - Artificial Bee Colony Optimization.
+   - Artificial Bee Colony Optimization
 
 # Reference Books
 
-- Simon S. Haykin, Neural Networks, Prentice Hall, 2nd edition.
-- B. Yegnanrayana, “Artificial Neural Networks”, PHI.
+- Simon S. Haykin, Neural Networks, Prentice Hall, 2nd edition
+- B. Yegnanrayana, “Artificial Neural Networks”, PHI
 - Jacek M. Zurada, Introduction to Artificial Neural Systems, Jaico Publishing House,1994
-- Zimmermann, “Fuzzy Set Theory and its Application”, 3rd Edition.
-- Jang J.S.R., Sun C.T. and Mizutani E, "Neuro-Fuzzy and Soft computing", Prentice Hall, 1998.
-- Timothy J. Ross, "Fuzzy Logic with Engineering Applications", McGraw Hill, 1997.
-- D.E. Goldberg, "Genetic Algorithms: Search, Optimization and Machine Learning", Addison Wesley, N.Y, 1989.
+- Zimmermann, “Fuzzy Set Theory and its Application”, 3rd Edition
+- Jang J.S.R., Sun C.T. and Mizutani E, "Neuro-Fuzzy and Soft computing", Prentice Hall, 1998
+- Timothy J. Ross, "Fuzzy Logic with Engineering Applications", McGraw Hill, 1997
+- D.E. Goldberg, "Genetic Algorithms: Search, Optimization and Machine Learning", Addison Wesley, N.Y, 1989
 
 # Outcomes
 

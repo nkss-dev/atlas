@@ -1,24 +1,21 @@
 ---
-code: CSPC33
-title: Soft Computing
-similar: [ITPE24]
-needs_screening: true
+code: CSPC31
+title: Advanced Data Structures and Algorithms
+similar: [ITPC45]
 
 specifics:
   - branch: CS
     semester: 5
     credits: [3, 0, 2, 4]
 
-prereq:
-kind: PC
+prereq: [CSPC21]
+kind: PC1
 ---
 
 # Objectives
 
-- Motivation and historical background of Soft Computing.
-- Application of Fuzzy logic.
-- Biologically inspired algorithm such as neural networks, genetic algorithms, ant colony optimization, and bee colony optimization.
-- Hybrid systems of neural network, genetic algorithms and fuzzy systems.
+- To develop the understanding of advanced data structures.
+- To develop the understanding of algorithmic design paradigms.
 
 # Content
 
@@ -52,22 +49,22 @@ kind: PC
 ## Unit 4
 
 1. **Advanced Algorithms**
-   - Approximation algorithms are algorithms that find solutions that are guaranteed to be close to the optimal solution, but not necessarily optimal.
-   - Absolute approximation refers to algorithms that find solutions whose quality is within a fixed constant factor of the optimal solution.
-   - Epsilon (ε)-approximation refers to algorithms that find solutions whose quality is within a factor of (1 + ε) of the optimal solution, where ε is a small positive constant.
-   - Polynomial time approximations refer to algorithms that run in polynomial time and find solutions whose quality is within a fixed constant factor or an ε-factor of the optimal solution.
-   - Randomized algorithms are algorithms that make use of randomization to find solutions that are close to the optimal solution. These algorithms may have different outputs each time they are run, but their expected output is close to the optimal solution.
+   - Introduction to approximation algorithms
+   - Absolute approximation
+   - ɛ-approximation
+   - Polynomial time approximations
+   - Randomized algorithms
 
 # Reference Books
 
-- E Horowitz and S. Sahni, Fundamentals of Data Structures, Universities Press.
-- Cormen, Leiserson and Rivest, Introduction to Algorithms, 3/e, PHI.
-- Horowitz, Ellis and Sahni, Fundamentals of Computer Algorithms, Universities Press.
-- Oded Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity, Cambridge University Press, 2010.
-- Anne Benoit, Yves Robert, Frédéric Vivien. A Guide to Algorithm Design: Paradigms, Methods, and Complexity Analysis, Taylor & Francis, 2013.
-- A.V. Aho, J.E. Hopcroft, and J.D. Ullman, Data Structures and Algorithms, Addison Wesley, Reading Massachusetts, USA, 1983.
-- Donald Knuth. The Art of Computer Programming: Fundamental Algorithms, Third Edition. Addison- Wesley, 1997.
-- Donald Knuth. The Art of Computer Programming Volume 3: Sorting and Searching, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0.
+- E Horowitz and S. Sahni, Fundamentals of Data Structures, Universities Press
+- Cormen, Leiserson and Rivest, Introduction to Algorithms, 3/e, PHI
+- Horowitz, Ellis and Sahni, Fundamentals of Computer Algorithms, Universities Press
+- Oded Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity, Cambridge University Press, 2010
+- Anne Benoit, Yves Robert, Frédéric Vivien. A Guide to Algorithm Design: Paradigms, Methods, and Complexity Analysis, Taylor & Francis, 2013
+- A.V. Aho, J.E. Hopcroft, and J.D. Ullman, Data Structures and Algorithms, Addison Wesley, Reading Massachusetts, USA, 1983
+- Donald Knuth. The Art of Computer Programming: Fundamental Algorithms, Third Edition. Addison- Wesley, 1997
+- Donald Knuth. The Art of Computer Programming Volume 3: Sorting and Searching, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0
 
 # Outcomes
 
