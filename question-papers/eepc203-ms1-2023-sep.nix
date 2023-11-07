@@ -1,11 +1,11 @@
 {
-  title = "NATIONAL INSTITUTE OF TECHNOLOGY , KURUKSHETRA";
+  title = "NATIONAL INSTITUTE OF TECHNOLOGY, KURUKSHETRA";
   subtitle = "MID TERM - 1 EXAMINATION";
 
   date = { day = 5; month = "Sep"; year = 2023; };
   programme = "B. Tech.";
-  cousre.name = "Generation Transmission and Distribution";
-  cousre.code = "EEPC203";
+  course.name = "Generation, Transmission and Distribution";
+  course.code = "EEPC203";
 
   semester = 3;
   pages = 1;
@@ -14,36 +14,33 @@
   questions = [
     [
       [{
-        text = ''
-          Draw the layout of thermal power plant
-        '';
+        text = "Draw the layout of thermal power plant.";
         marks = 5;
       }]
     ]
     [
       [{
         text = ''
-          Derive the expression foe inductance of transposed , 3-phased asymmetrically spaced triangular arrangement.
+          Derive the expression for the inductance of transposed, 3-phased
+          asymmetrically spaced triangular arrangement.
         '';
         marks = 5;
       }]
     ]
     [
       [{
-        text = ''
-          Explain skin and proximity effect.
-        '';
+        text = "Explain skin and proximity effect.";
         marks = 2;
       }]
     ]
     [
       [{
         text = ''
-          Calculate per phase per kilometre inductance of a bundled conductor trasmission line given below.
+          Calculate per phase per kilometer inductance of a bundled conductor
+          trasmission line given below.
         '';
         image = "https://i.imgur.com/8fOlHiW.jpeg";
       }]
     ]
   ];
-
 }
