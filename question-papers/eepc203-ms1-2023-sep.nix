@@ -39,6 +39,7 @@
           Calculate per phase per kilometer inductance of a bundled conductor
           trasmission line given below.
         '';
+        marks = 3;
         image = "https://i.imgur.com/8fOlHiW.jpeg";
       }]
     ]
