@@ -6,9 +6,7 @@ title: French Language Skills
 similar: [HSAU19, HSAU20]
 needs_screening: false
 
-specifics:
-
-prereq: []
+prereq: [----]
 kind: AU
 ---
 
@@ -16,7 +14,6 @@ kind: AU
 
 - To introduce basic language skills in french language
 - To build confidence among students in speaking french language with correct pronunciation 
-- ...
 
 # Content
 
