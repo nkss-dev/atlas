@@ -2,8 +2,6 @@
 code: CEIR12
 title: Engineering Graphics
 
-needs_screening: true
-
 specifics:
   - branch: CE
     semester: 1
@@ -14,6 +12,8 @@ kind: EPR
 ---
 
 # Objectives
+
+Unknown
 
 # Content
 
@@ -40,7 +40,7 @@ kind: EPR
 1. **Projections of Points, Straight Lines and Planes:**
 
   - Planes in different quadrants
-  - **Projections of lines:** 
+  - **Projections of lines:**
     - Parallel to one or both the planes
     - Contained by one or both the planes
     - Perpendicular to plane
@@ -97,10 +97,8 @@ kind: EPR
 
 # Outcomes
 
-- Understand the concepts like dimensioning, conventions and standard related to
-working drawings in order to become professionally efficient.
+- Understand the concepts like dimensioning, conventions and standard related to working drawings in order to become professionally efficient.
 - Understand the theory of projections.
 - Draw orthographic projections of lines, planes and solids.
 - Draw sections of solids including cylinders, cones, prisms and pyramids.
-- Analyze different force system (concurrent and non-concurrent) by using
-graphical method.
+- Analyze different force system (concurrent and non-concurrent) by using graphical method.
