@@ -2,7 +2,6 @@
 code: CSPC43
 title: Distributed Computing
 similar: [ITPE44]
-needs_screening: true
 
 specifics:
   - branch: CS
@@ -70,16 +69,16 @@ kind: PC2
 
 - A D Kshemkalyani and MukeshSinghal, Distributed Computing: Principles Algorithms, and Systems, Cambridge University Press 2008
 - G Colouris, J Dollimore, and T Kindberg, Distributed Systems: Concepts and Design, 3/e Pearson Ed. 2002
-- A S Tanenbaum and M van Steen, Distributed Systems: Principles and Paradigms, 3/e Pearson Ed. 2002.
-- V K Garg, Principles of Distributed Systems, Kluwer Academic Publishers, 1996.
+- A S Tanenbaum and M van Steen, Distributed Systems: Principles and Paradigms, 3/e Pearson Ed. 2002
+- V K Garg, Principles of Distributed Systems, Kluwer Academic Publishers, 1996
 - Sukumar Ghosh, Distributed Systems: An Algorithmic Approach, 2/e Chapman& Hall
 - V K Garg, Principles of Distributed Computing, IEEE Press
-- Nancy Lynch, Distributed Algorithms, Morgan Kaufmann Press.Gerard Tel, Introduction to Distributed Algorithms, Cambridge University Press.
+- Nancy Lynch, Distributed Algorithms, Morgan Kaufmann Press.Gerard Tel, Introduction to Distributed Algorithms, Cambridge University Press
 
 # Outcomes
 
-- Able to apply knowledge of operating systems and networks to distributed systems
-- Design distributed algorithms for complex computing problems
-- Analyze the performance of algorithms and evaluate the scalability of solutions
-- Adapt existing centralized algorithms to distributed set up
-- Simulate the algorithms in distributed environment
+- Able to apply knowledge of operating systems and networks to distributed systems.
+- Design distributed algorithms for complex computing problems.
+- Analyze the performance of algorithms and evaluate the scalability of solutions.
+- Adapt existing centralized algorithms to distributed set up.
+- Simulate the algorithms in distributed environment.
