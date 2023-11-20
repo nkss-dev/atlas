@@ -1,11 +1,9 @@
 { lib
 , buildPythonPackage
 , fetchPypi
-
-  # dependencies
 , matplotlib
 , numpy
-, pytest
+, pytestCheckHook
 , python3
 }:
 
@@ -18,18 +16,13 @@ buildPythonPackage rec {
     hash = "sha256-zAHemJLfp9G8mAPasoiS/q0XfwGCyB20c2CiQOrXeP8=";
   };
 
-  propagatedBuildInputs = [ matplotlib numpy pytest ];
-
-  checkPhase = ''
-    runHook preCheck
-    ${python3.interpreter} -m unittest
-    runHook postCheck
-  '';
+  propagatedBuildInputs = [ matplotlib numpy ];
+  nativeCheckInputs = [ pytestCheckHook ];
 
   meta = with lib; {
-    description = "DEAP is a novel evolutionary computation framework for rapid prototyping and testing of ideas.";
+    description = "A novel evolutionary computation framework for rapid prototyping and testing of ideas";
     homepage = "https://github.com/DEAP/deap";
-    license = licenses.lgpl3;
-    maintainers = with maintainers; [ getpsyched psyanticy ];
+    license = licenses.lgpl3Plus;
+    maintainers = with maintainers; [ psyanticy ];
   };
 }
