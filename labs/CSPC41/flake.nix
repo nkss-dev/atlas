@@ -2,6 +2,7 @@
   description = "Dev environment for Machine Learning";
 
   inputs = {
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     flakey-devShells.url = "https://flakehub.com/f/GetPsyched/not-so-flakey-devshells/0.x.x.tar.gz";
     flakey-devShells.inputs.nixpkgs.follows = "nixpkgs";
   };
@@ -26,7 +27,7 @@
             pandas
             scipy
             seaborn
-            sklearn-deap
+            (sklearn-deap.override { deap = (callPackage ./deap.nix { }); })
             statsmodels
 
             (callPackage ./pydotplus.nix { })
