@@ -15,6 +15,7 @@
     {
       devShells.${system}.default = pkgs.mkShell {
         buildInputs = [
+          pkgs.nmap
           (flakey-devShell-pkgs.default.override { environments = [ "cpp" "nix" "python" ]; })
           (flakey-devShell-pkgs.vscodium.override { environments = [ "cpp" "nix" "python" ]; })
         ];
