@@ -1,39 +1,39 @@
 ---
-code: HSIR11
-title: Communication Skills in English
+code: HSAU18
+title: French Language 
 needs_screening: true
 
 specifics:
   - branch: CE
-    semester: 2
-    credits: [2, 0, 2, 3]
+    semester: 1
+    credits: [1, 0, 0, 1]
 
   - branch: CS
-    semester: 1
-    credits: [2, 0, 2, 3]
+    semester: 2
+    credits: [1, 0, 0, 1]
 
   - branch: EC
-    semester: 1
-    credits: [2, 0, 2, 3]
+    semester: 2
+    credits: [1, 0, 0, 1]
 
   - branch: EE
-    semester: 2
-    credits: [2, 0, 2, 3]
+    semester: 1
+    credits: [1, 0, 0, 1]
 
   - branch: IT
-    semester: 1
-    credits: [2, 0, 2, 3]
+    semester: 2
+    credits: [1, 0, 0, 1]
 
   - branch: ME
-    semester: 2
-    credits: [2, 0, 2, 3]
+    semester: 1
+    credits: [1, 0, 0, 1]
 
   - branch: PI
-    semester: 2
+    semester: 1
     credits: [2, 0, 2, 3]
 
 prereq: []
-kind: EPR
+kind: AU
 ---
 
 # Objectives
