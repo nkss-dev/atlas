@@ -30,7 +30,7 @@ specifics:
 
   - branch: PI
     semester: 1
-    credits: [2, 0, 2, 3]
+    credits: [1, 0, 0, 1]
 
 prereq: []
 kind: AU
