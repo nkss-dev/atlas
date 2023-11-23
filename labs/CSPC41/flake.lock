@@ -1,43 +1,43 @@
 {
   "nodes": {
-    "nix-env": {
+    "flakey-devShells": {
       "inputs": {
         "nixpkgs": [
           "nixpkgs"
         ]
       },
       "locked": {
-        "dir": "nix",
-        "lastModified": 1697705467,
-        "narHash": "sha256-SQ1xpSju8q+pzNb7ak1pwilPqeA6lsM/XAPC0wPiQOo=",
-        "owner": "GetPsyched",
-        "repo": "nix-starter-flakes",
-        "rev": "a8be9bafe3a00cf5e215ee3994af0be116fa4f50",
-        "type": "github"
+        "lastModified": 1700234571,
+        "narHash": "sha256-0R2yQx0vYPcX3Fw+cu10HpisO6OTEWOVieWmQSyEH1w=",
+        "rev": "29b0bf9e54ef5f4f28df134aaca7ec479bdc61e9",
+        "revCount": 79,
+        "type": "tarball",
+        "url": "https://api.flakehub.com/f/pinned/GetPsyched/not-so-flakey-devshells/0.2.4/018bdde1-911f-7ba4-a870-d28ea357a4ee/source.tar.gz"
       },
       "original": {
-        "dir": "nix",
-        "owner": "GetPsyched",
-        "repo": "nix-starter-flakes",
-        "type": "github"
+        "type": "tarball",
+        "url": "https://flakehub.com/f/GetPsyched/not-so-flakey-devshells/0.x.x.tar.gz"
       }
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1694422566,
-        "narHash": "sha256-lHJ+A9esOz9vln/3CJG23FV6Wd2OoOFbDeEs4cMGMqc=",
-        "path": "/nix/store/zb2695k9v4hmjdki97p0yhd4mys270fs-source",
-        "rev": "3a2786eea085f040a66ecde1bc3ddc7099f6dbeb",
-        "type": "path"
+        "lastModified": 1700204040,
+        "narHash": "sha256-xSVcS5HBYnD3LTer7Y2K8ZQCDCXMa3QUD1MzRjHzuhI=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "c757e9bd77b16ca2e03c89bf8bc9ecb28e0c06ad",
+        "type": "github"
       },
       "original": {
-        "id": "nixpkgs",
-        "type": "indirect"
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
       }
     },
     "root": {
       "inputs": {
-        "nix-env": "nix-env",
+        "flakey-devShells": "flakey-devShells",
         "nixpkgs": "nixpkgs"
       }
     }

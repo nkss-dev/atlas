@@ -1,6 +1,7 @@
 ---
 code: PHIR11
 title: Physics - I
+needs_screening: true
 
 specifics:
   - branch: CE
@@ -17,7 +18,7 @@ specifics:
 
   - branch: EE
     semester: 1
-    credits: [2, 1, 0, 3]
+    credits: [2, 1, 2, 4]
 
   - branch: IT
     semester: 1
