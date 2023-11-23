@@ -2,9 +2,37 @@
 code: HSAU18
 title: French Language Skills
 
-# Delete this line if no courses are similar to this one
 similar: [HSAU19, HSAU20]
 needs_screening: false
+
+specifics:
+ - branch: CE
+    semester: 1
+    credits: [1, 0, 0, 1]
+
+  - branch: CS
+    semester: 2
+    credits: [1, 0, 0, 1]
+
+  - branch: EC
+    semester: 2
+    credits: [1, 0, 0, 1]
+
+  - branch: EE
+    semester: 1
+    credits: [1, 0, 0, 1]
+
+  - branch: IT
+    semester: 2
+    credits: [1, 0, 0, 1]
+
+  - branch: ME
+    semester: 1
+    credits: [1, 0, 0, 1]
+
+  - branch: PI
+    semester: 1
+    credits: [1, 0, 0, 1]
 
 prereq: [----]
 kind: AU
@@ -19,7 +47,7 @@ kind: AU
 
 ## Unit 1
 
-   **Basic Elements of Grammar**
+   1. **Basic Elements of Grammar**
    - Determinants
    - Prepositions 
    - Adjectives : Demonstrative, Interrogative, Possessive
@@ -31,12 +59,12 @@ kind: AU
 
 ## Unit 2
 
-   **Translation**
+   1. **Translation**
    - English to French, French to English    
 
 ## Unit 3
 
-   **Introduction to Culture and Civilization**
+   1. **Introduction to Culture and Civilization**
    - Short Questions on Day to Day life in France
    - Names of Popular Cities, Rivers, Mountains, Periodicals, Authors, Important Abbreviations 
 
