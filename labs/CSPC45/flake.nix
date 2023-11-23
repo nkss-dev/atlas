@@ -2,17 +2,23 @@
   description = "Dev environment for Information Security";
 
   inputs = {
-    flake-utils.url = "github:numtide/flake-utils";
+    flakey-devShells.url = "https://flakehub.com/f/GetPsyched/not-so-flakey-devshells/0.x.x.tar.gz";
+    flakey-devShells.inputs.nixpkgs.follows = "nixpkgs";
   };
 
-  outputs = { self, nixpkgs, flake-utils }:
-    flake-utils.lib.eachDefaultSystem (system:
-      let pkgs = import nixpkgs { inherit system; };
-      in
-      {
-        devShells.default = pkgs.mkShell {
-          nativeBuildInputs = with pkgs; [ gcc ];
-        };
-      }
-    );
+  outputs = inputs@{ nixpkgs, flakey-devShells, ... }:
+    let
+      system = "x86_64-linux";
+      pkgs = nixpkgs.legacyPackages.${system};
+      flakey-devShell-pkgs = flakey-devShells.outputs.packages.${system};
+    in
+    {
+      devShells.${system}.default = pkgs.mkShell {
+        buildInputs = [
+          pkgs.nmap
+          (flakey-devShell-pkgs.default.override { environments = [ "cpp" "nix" "python" ]; })
+          (flakey-devShell-pkgs.vscodium.override { environments = [ "cpp" "nix" "python" ]; })
+        ];
+      };
+    };
 }
