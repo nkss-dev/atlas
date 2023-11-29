@@ -21,18 +21,20 @@
           preference, as observed by them in previous elections. Which
           statistical test is needed to find whether the belief of Company A is
           correct? Apply the above test and decide whether the company's belief
-          is statistically significant with `⍺=0.05`. If some data is missing
-          above, assume the data with suitable values.
+          is statistically significant with ⍺ = 0.05.
 
             <br />
 
-            |        | Republican | Democrat | Independent | Total |
-            |--------|------------|----------|-------------|-------|
-            | Male   | 100        | 70       | 30          | 200   |
-            | Female | 140        | 60       | 20          | 220   |
-            | Total  | 240        | 130      | 50          | 440   |
+            |            | Republican | Democrat | Independent | Total |
+            |------------|------------|----------|-------------|-------|
+            | **Male**   | 100        | 70       | 30          | 200   |
+            | **Female** | 140        | 60       | 20          | 220   |
+            | **Total**  | 240        | 130      | 50          | 440   |
 
             <br />
+        '';
+        prompt = ''
+          If some data is missing above, assume the data with suitable values
         '';
         marks = 5;
       }]
