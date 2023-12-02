@@ -25,9 +25,9 @@
     [
       [{
         text = ''
-          Explain the concept of consistent snapshots in a distributed
-          system. Discuss an approach to record a consistent snapshot in a non-
-          FIFO channel.
+          Explain the concept of consistent snapshots in a distributed system.
+          Discuss an approach to record a consistent snapshot in a non-FIFO
+          channel.
         '';
         marks = 5;
       }]
